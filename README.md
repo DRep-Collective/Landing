@@ -1,4 +1,4 @@
-# The Landing
+# THE LANDING
 ### 🛑 The Collective itself is not registered as a DRep 🛑
 ---
 
