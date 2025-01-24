@@ -1,15 +1,16 @@
 # The Landing
+### 🛑 The Collective itself is not registered as a DRep 🛑
+---
+
+## ABOUT
+The DRep Collective is a community intitiative created to provide greater visibility and availability of governance DReps across the broader Cardano block-chain community. The idea is to allow DReps to provide their personal areas of interest, experience and knowledge while also providing delegates the ability to locate and support DReps who may align with their own values, interests and priorities.
+
+We continue to push for an informed international community and encourage all DReps to join the intitiative and, by extension, increasing the overall governance participation rate.
 
 ---
 
-## About
-The DRep Collective is a community intitiative created to provide greater visibility and availability of governance DReps across the Cardano block-chain ecosystem. The idea is to allow DReps to provide their personal areas of interest, experience and knowledge while also providing delegates the ability to locate and support DReps who may align with their own values, interests and priorities.
+## CONTACT INFORMATION & RELEVANT LINKS
 
-We continue to push for an informed international community and encourage all DReps to join the intitiative.
-
----
-
-## Contact Information & Relevant Links
 #### Email
 - [TheDrepCollective](mailto:thedrepcollective@gmail.com)
 
@@ -23,7 +24,15 @@ We continue to push for an informed international community and encourage all DR
 
 ---
 
-## Account Repository Index
+## POLICIES & GUIDELINES
+- [Code of Conduct](coming soon]
+- [Mission Statement](coming soon)
+- [Ethics Statement](coming soon)
+
+---
+
+## INDEX OF OUR REPOSITORIES
 1. [The Landing](https://github.com/DRep-Collective/landing)
 
+---
 
