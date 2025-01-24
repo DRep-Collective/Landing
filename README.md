@@ -3,7 +3,7 @@
 ---
 
 ## ABOUT
-The DRep Collective is a community intitiative created to provide greater visibility and availability of governance DReps across the broader Cardano block-chain community. The idea is to allow DReps to provide their personal areas of interest, experience and knowledge while also providing delegates the ability to locate and support DReps who may align with their own values, interests and priorities.
+The DRep Collective is a community initiative created to provide greater visibility and availability of governance DReps across the broader Cardano block-chain community. The idea is to allow DReps to provide their personal areas of interest, experience and knowledge while also providing delegates the ability to locate and support DReps who may align with their own values, interests and priorities.
 
 We continue to push for an informed international community and encourage all DReps to join the intitiative and, by extension, increasing the overall governance participation rate.
 
