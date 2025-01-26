@@ -8,7 +8,12 @@ Process:
     - past link below in `(  )`
     - ctrl + s (to save) or click green `commit changes` button
     - click `commit changes` on pop-up
-    - done 
- 
-## List Of Docs Available:
-- [doc name](https: link to document)
+    - done
+  - example: `[doc-name](https://github.com/drep-collective/org-docs/[your-file-name])`
+
+--- 
+
+## List Of Available Documents:
+- [Code of Conduct](link coming)
+- [Ethics Statement](link coming)
+- [Mission Statement](link coming)
