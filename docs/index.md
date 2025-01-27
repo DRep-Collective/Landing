@@ -14,7 +14,10 @@ Process:
 --- 
 
 ## Meeting Minutes
-1. Meeting Minutes 17 & 23 January 2025 - [PDF](https://github.com/DRep-Collective/Landing/blob/main/docs/Meeting-Notes_17%2623-January_dRep-Collective-Cardano%20Forum.pdf) - [markdown](https://github.com/DRep-Collective/Landing/blob/main/docs/Meeting-Notes_17%2623-January_dRep-Collective-Cardano%20Forum.txt)
+1. Meeting Minutes 17-Jan-2025 - [markdown](add link)
+2. Meeting Minutes 15-Jan-2025 - [markdown](add link)
+3. Meeting Minutes 22-Jan-2025 - [markdown](add link)
+4. Meeting Minutes 29-Jan-2025 - [markdown](add link)
 
 ---
 
