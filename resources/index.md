@@ -5,3 +5,6 @@
 
 ## DRep Information
 - [All Things DRep](all-things-drep.md)
+
+## Organizational Documents
+- [List of docs](https://github.com/DRep-Collective/Landing/blob/main/org-docs/index.md)
