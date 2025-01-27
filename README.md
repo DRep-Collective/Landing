@@ -26,9 +26,9 @@ We continue to push for an informed international community and encourage all DR
 - [DRep Forum](https://linktr.ee/drepforum)
 
 #### Links To Resources and Documents
-- [Meeting Minutes](https://github.com/DRep-Collective/landing/blob/main/resources/meeting-minutes.md)
+- [Meeting Minutes](https://github.com/DRep-Collective/Landing/blob/main/docs/index.md#meeting-minutes)
 - [All Things DRep](https://github.com/DRep-Collective/landing/blob/main/resources/all-things-drep.md)
-- [Organizational Documents](https://github.com/DRep-Collective/Landing/blob/main/org-docs/index.md)
+- [All Documents](https://github.com/DRep-Collective/Landing/blob/main/docs/index.md)
 
 #### Initiatives
 - [CIP-148](https://drep-eco.vercel.app/cip148) - proposed
