@@ -29,6 +29,11 @@ We continue to push for an informed international community and encourage all DR
 - [Meeting Minutes](https://github.com/DRep-Collective/landing/blob/main/resources/meeting-minutes.md)
 - [All Things DRep](https://github.com/DRep-Collective/landing/blob/main/resources/all-things-drep.md)
 - [Organizational Documents](https://github.com/DRep-Collective/Landing/blob/main/org-docs/index.md)
+
+#### Initiatives
+- [CIP-148](https://drep-eco.vercel.app/cip148) - proposed
+- [DRep Ecosystem Map](https://drep-eco.vercel.app/map) - POC
+
 ---
 
 ## POLICIES & GUIDELINES
