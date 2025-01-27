@@ -14,9 +14,9 @@ Process:
 --- 
 
 ## Meeting Minutes
-1. Meeting Minutes 17-Jan-2025 - [markdown](add link)
-2. Meeting Minutes 15-Jan-2025 - [markdown](add link)
-3. Meeting Minutes 22-Jan-2025 - [markdown](add link)
+1. Meeting Minutes 07-Jan-2025 - [markdown](https://github.com/DRep-Collective/Landing/blob/main/docs/MeetingMinutes_07-Jan-2025.md)
+2. Meeting Minutes 15-Jan-2025 - [markdown](https://github.com/DRep-Collective/Landing/blob/main/docs/MeetingMinutes_15-Jan-2025.md)
+3. Meeting Minutes 22-Jan-2025 - [markdown](https://github.com/DRep-Collective/Landing/blob/main/docs/MeetingMinutes_22-Jan-2025.md)
 4. Meeting Minutes 29-Jan-2025 - [markdown](add link)
 
 ---
