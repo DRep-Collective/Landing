@@ -1,7 +1,7 @@
 # Index of Resources
 
-## Organizational Documents
-- [List of docs](https://github.com/DRep-Collective/Landing/blob/main/org-docs/index.md)
+## All Documents
+- [List of docs](https://github.com/DRep-Collective/Landing/blob/main/docs/index.md)
 
 ## Meetings, Project & Other Minutes
 - [Meeting Minutes](meeting-minutes.md)
