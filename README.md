@@ -25,7 +25,7 @@ We continue to push for an informed international community and encourage all DR
 - [WhatsApp](https://chat.whatsapp.com/KZVsqc3GrLhIkkyMX6KKYR)
 - [DRep Forum](https://linktr.ee/drepforum)
 
-#### Links To Resources and Documents
+#### Resources and Documents
 - [Meeting Minutes](https://github.com/DRep-Collective/Landing/tree/main/docs/meeting-minutes) & [Slides](https://github.com/DRep-Collective/Landing/tree/main/docs/meeting-minutes/slides)
 - [All Things DRep](https://github.com/DRep-Collective/landing/blob/main/resources/all-things-drep.md)
 - [All Documents](https://github.com/DRep-Collective/Landing/blob/main/docs/index.md)
