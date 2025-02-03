@@ -26,3 +26,9 @@ Process:
 3. Mission Statement - [PDF](add link) - [markdown](add link)
 
 ---
+
+## Colors & Fonts
+- [Requirements](https://github.com/DRep-Collective/Landing/blob/main/docs/fonts-colors/requirements.md)
+- [Round 1 Suggestion](https://github.com/DRep-Collective/Landing/blob/main/docs/fonts-colors/round-1.md)
+
+---
