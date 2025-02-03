@@ -20,7 +20,7 @@
     - #88A550 - Algae
     - use [this link](https://reallybigshoe.co.uk/visualiser/index.html) and plug in colors
     - the colors above are rather neutral
-2. Github code in [#5 above](https://mixable.blog/adjust-text-color-to-be-readable-on-light-and-dark-backgrounds-of-user-interfaces/) to program in alt-palette colors depending on light/dark background
+2. Github code in [#5 below](https://mixable.blog/adjust-text-color-to-be-readable-on-light-and-dark-backgrounds-of-user-interfaces/) to program in alt-palette colors depending on light/dark background
 3. Logo color could be `#D33E43 (Poppy)` which is easily visible on both white/black visible but may cause visually-impaired issues. Otherwise we can use one of the primary or secondary colors.
 
 ### **__Visualizers:__**
