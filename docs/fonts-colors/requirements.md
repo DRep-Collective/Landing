@@ -25,3 +25,6 @@ Since this will be applied to a website and other assets, it should be something
 - Consider a scalable approach so we can evolve the brand as needed.  
 
 ---
+
+## Round Of Suggestions:
+1. [Round 1](https://github.com/DRep-Collective/Landing/blob/main/docs/fonts-colors/round-1.md) - color palette only
