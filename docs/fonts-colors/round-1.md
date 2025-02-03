@@ -9,6 +9,11 @@
 - [Digital Accessibility: Color](https://dap.berkeley.edu/learn/accessibility-basics/color)
 - More links at bottom
 
+### Logo color:
+- could be `#D33E43 (Poppy)` which is easily visible on both white/black visible but may cause visually-impaired issues.
+- otherwise we can use one of the primary or secondary colors.
+- a quick/crude mockup was creaetd in Procreate with a similar color - link here in future
+
 ### **__Fonts:__**
 - None selected
 - Suggest nothing fancy. Fonts must be available across OSes (Linux, Win, MacOS, iOS, iPadOS, Android, GrapheneOS, others?)
@@ -24,7 +29,6 @@
     - use [this link](https://reallybigshoe.co.uk/visualiser/index.html) and plug in colors
     - the colors above are rather neutral
 2. Github code in [#5 below](https://mixable.blog/adjust-text-color-to-be-readable-on-light-and-dark-backgrounds-of-user-interfaces/) to program in alt-palette colors depending on light/dark background
-3. Logo color could be `#D33E43 (Poppy)` which is easily visible on both white/black visible but may cause visually-impaired issues. Otherwise we can use one of the primary or secondary colors.
 
 ### **__Visualizers:__**
 - See `Links` below, [#2](https://reallybigshoe.co.uk/visualiser/index.html), [#3](https://coolors.co/577590-f3ca40-f2a541-f08a4b-d78a76)
