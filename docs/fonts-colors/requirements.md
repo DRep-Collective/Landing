@@ -1,6 +1,11 @@
-### **DRep Collective – Brand Package Overview**  
+# **DRep Collective – Brand Package Overview**  
 
 We need a **professional, cohesive brand package** for the **DRep Collective** to ensure a unified identity across our website, logo, and any future materials. Below is what we’re looking for and how you can approach it at a high level.  
+
+---
+
+### Suggestions:
+1. [Round 1](https://github.com/DRep-Collective/Landing/blob/main/docs/fonts-colors/round-1.md) - color palette only
 
 ---
 
@@ -26,5 +31,3 @@ Since this will be applied to a website and other assets, it should be something
 
 ---
 
-## Round Of Suggestions:
-1. [Round 1](https://github.com/DRep-Collective/Landing/blob/main/docs/fonts-colors/round-1.md) - color palette only
