@@ -2,6 +2,9 @@
 
 ## Round 1
 
+### Visual:
+- [PNG screenshot providing color palette](https://github.com/DRep-Collective/Landing/blob/main/docs/fonts-colors/round-1-palette-collective.png)
+
 ### Consider:
 - [Digital Accessibility: Color](https://dap.berkeley.edu/learn/accessibility-basics/color)
 - More links at bottom
