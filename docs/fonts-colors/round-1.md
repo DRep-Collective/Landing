@@ -1,4 +1,5 @@
 # Color Palette and Fonts
+###### [REQUIREMENTS](https://github.com/DRep-Collective/Landing/blob/main/docs/fonts-colors/requirements.md)
 
 ## Round 1
 
