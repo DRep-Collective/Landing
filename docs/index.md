@@ -9,14 +9,13 @@ Process:
     - ctrl + s (to save) or click green `commit changes` button
     - click `commit changes` on pop-up
     - done
-  - example: `[doc-name](https://github.com/drep-collective/org-docs/[your-file-name])`
+  - example: `[doc-name](https://github.com/drep-collective/docs/[appropriate-folder]/[doc-name])`
 
 --- 
 
 ## Meeting Information
 - [Minutes](https://github.com/DRep-Collective/Landing/tree/main/docs/meeting-minutes)
 - [Slides](https://github.com/DRep-Collective/Landing/tree/main/docs/meeting-minutes/slides)
-
 
 ---
 
@@ -32,3 +31,8 @@ Process:
 - [Round 1 Suggestion](https://github.com/DRep-Collective/Landing/blob/main/docs/fonts-colors/round-1.md)
 
 ---
+
+## Iconography
+- [Original Logo](https://github.com/DRep-Collective/Landing/blob/main/docs/iconography/drep-collective-logo.png) - [link](https://drep-eco.vercel.app/logo-download)
+- [Logo Remake #2](https://github.com/DRep-Collective/Landing/blob/main/docs/iconography/drep-collective-logo_2.png)
+- [Logo Remake #3](https://github.com/DRep-Collective/Landing/blob/main/docs/iconography/drep-collective-logo_3.png)
