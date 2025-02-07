@@ -21,7 +21,7 @@ Process:
 
 ## Organizational Documentation:
 1. Code of Conduct - [PDF](add link) - [markdown](add link)
-2. Ethics Statement - [PDF](dd link) - [markdown](add link)
+2. Ethics Statement - [PDF](add link) - [markdown](add link)
 3. Mission Statement - [PDF](add link) - [markdown](add link)
 
 ---
