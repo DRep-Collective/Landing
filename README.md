@@ -18,7 +18,8 @@ We continue to push for an informed international community and encourage all DR
 - [TheDrepCollective](mailto:thedrepcollective@gmail.com)
 
 #### Platform Links
-- [Discord](invite coming soon)
+- [Discord](https://discord.gg/VHzZCBxNDm)
+- [GitHub](https://github.com/DRep-Collective)
 - [Telegram](https://t.me/+Y1HJLBoLK-UyNDc5)
 - [LinkedIn](https://www.linkedin.com/company/the-drep-collective/)
 - [Facebook](https://www.facebook.com/profile.php?id=61572466194346)
