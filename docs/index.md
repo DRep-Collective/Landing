@@ -13,7 +13,7 @@ Process:
 
 --- 
 
-## [Meeting Information](https://github.com/DRep-Collective/Landing/blob/main/docs/meeting-minutes/index.md)
+## [Meeting Records](https://github.com/DRep-Collective/Landing/blob/main/docs/meeting-minutes/index.md)
 - [Minutes](https://github.com/DRep-Collective/Landing/tree/main/docs/meeting-minutes)
 - [Slides](https://github.com/DRep-Collective/Landing/tree/main/docs/meeting-minutes/slides)
 
