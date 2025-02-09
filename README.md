@@ -31,7 +31,7 @@ We continue to push for an informed international community and encourage all DR
 - [All Documents](https://github.com/DRep-Collective/Landing/blob/main/docs/index.md)
 
 #### Initiatives
-- [CIP-119 Extension](https://drep-eco.vercel.app/cip148) - aka CIP-148 - proposed
+- [CIP-119 Extension](https://drep-eco.vercel.app/cip148) - fka CIP-148 - proposed
 - [DRep Ecosystem Map](https://drep-eco.vercel.app/map) - POC
 
 ---
