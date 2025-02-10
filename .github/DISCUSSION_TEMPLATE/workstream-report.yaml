@@ -36,20 +36,20 @@ body:
         - label: GitHub & Archiving
     validations:
       required: true
-  - type: markdown
-    attributes:
-      value: ---
-  - type: markdown
-    attributes:
-      value: "Please add any text based feedback here based on the following three
-        points:"
-  - type: textarea
-    label: 1. Current Progress
-    attributes:
-      id: current-progress
-      placeholder: Enter current progress info above. If none, type NONE
-    validations:
-      required: true
+  # - type: markdown
+  #   attributes:
+  #     value: ---
+  # - type: markdown
+  #   attributes:
+  #     value: "Please add any text based feedback here based on the following three
+  #       points:"
+  # - type: textarea
+  #   label: 1. Current Progress
+  #   attributes:
+  #     id: current-progress
+  #     placeholder: Enter current progress info above. If none, type NONE
+  #   validations:
+  #     required: true
   # - type: textarea
   #   label: 2. What's Next?
   #   attributes:
