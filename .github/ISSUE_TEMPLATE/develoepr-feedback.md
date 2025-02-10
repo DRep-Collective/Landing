@@ -1,6 +1,6 @@
 ---
-name: Develoepr Feedback
-about: Use this form to shaer feedback with the developers.
+name: Developer Feedback
+about: Use this form to share feedback with the developers.
 title: Developer Feedback Form
 labels: dev feedback
 assignees: dgarey, Alpine-Oracle
