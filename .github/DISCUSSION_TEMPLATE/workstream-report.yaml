@@ -45,11 +45,11 @@ body:
         points:"
   - type: textarea
     label: 1. Current Progress
-      attributes:
-        id: current-progress
-        placeholder: Enter current progress info above. If none, type NONE
-      validations:
-        required: true
+    attributes:
+      id: current-progress
+      placeholder: Enter current progress info above. If none, type NONE
+    validations:
+      required: true
   # - type: textarea
   #   label: 2. What's Next?
   #   attributes:
