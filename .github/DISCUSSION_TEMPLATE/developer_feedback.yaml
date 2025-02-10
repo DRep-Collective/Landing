@@ -1,9 +1,10 @@
 ---
 title: "Developer Feedback Form"
 #subtitle: "Please use this form to share feedback with the developers."
-version: "0.1"
-date: "10-Feb-2025"
+#version: "0.1"
+#date: "10-Feb-2025"
 labels: "dev feedback"
+output: form
 
 body:
   - type: markdown
