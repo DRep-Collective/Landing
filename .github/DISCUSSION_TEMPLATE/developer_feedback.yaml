@@ -9,7 +9,7 @@ body:
   attributes:
     label: "Date & Time"
     description: "Please provide the date and time you experienced this issue.
-    placeholder: " 1300 UTC, 12-Jan-2025
+    placeholder: "1300 UTC, 12-Jan-2025"
     required: true
 - type: markdown  
   value: ---
