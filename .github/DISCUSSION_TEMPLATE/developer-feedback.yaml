@@ -38,7 +38,7 @@ body:
     attributes:
       value: ---
   - type: dropdown
-    id: severity
+    id: which-prod
     attributes:
       label: "Select the product/project with these issues."
       options:
