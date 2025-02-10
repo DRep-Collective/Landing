@@ -41,7 +41,7 @@ body:
       value: ---
   - type: markdown
     attributes:
-      value: "## Please add any text based feedback here based on the following three points:"
+      value: "### Please add any text based feedback here based on the following three points:"
   - type: textarea
     attributes:
       label: "1. Current Progress"
@@ -68,4 +68,4 @@ body:
       value: ---
   - type: markdown
     attributes:
-      value: "## Drag and drop any files associated with your experience."
+      value: "### Drag and drop any files associated with your experience."
