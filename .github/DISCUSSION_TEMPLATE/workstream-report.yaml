@@ -24,7 +24,7 @@ body:
     id: which-group
     attributes:
       label: For which working group(s) are you providing this workstream update?
-      description: null
+      # description: null
       options:
         - label: Coordination & Admin
         - label: Metadata Standards
