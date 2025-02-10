@@ -1,6 +1,7 @@
 ---
-Title: Developer Feedback Form
-Labels: 'dev feedback'
+title: "Developer Feedback Form"
+subtitle: "Please use this form to share feedback with the developers."
+labels: "dev feedback"
 ---
 body:
   - type: markdown
