@@ -7,6 +7,22 @@ body:
     attributes:
       value: "## Use this form to share feedback with the developers."
   - type: input
+    id: discord-id
+    attributes:
+      label: "Discord Handle (optional)"
+      description: "discordID"
+      placeholder: "@ratio13"
+    validations:  
+      required: false
+  - type: input
+    id: x-id
+    attributes:
+      label: "X Handle (optional)"
+      description: "Enter you X handle"
+      placeholder: "@st8tik"
+    validations:  
+      required: false
+  - type: input
     id: date-time
     attributes:
       label: "Please provide the DATE and TIME you experienced this issue."
