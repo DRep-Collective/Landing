@@ -3,22 +3,24 @@ body:
   - type: markdown
       value: "# Developer Feedback Form"
   - type: markdown
+    attributes:
       value: |
         Please use this form to share feedback with the developers.
   - type: input
     id: date-time
     attributes:
-      label: Date and Time
-      description: Please provide the date and time you experienced this issue.
-      placeholder: 1300 UTC, 12-Jan-2025
+      label: "Date and Time"
+      description: "Please provide the date and time you experienced this issue."
+      placeholder: "1300 UTC, 12-Jan-2025"
+    validations:  
       required: true
   - type: markdown
       value: ---
   - type: dropdown
     id: severity
     attributes:
-      label: Please rate the severity of this issue from the dropdown. Use your best
-        judgement. If you are unsure please select unknown.
+      label: "Please rate the severity of this issue from the dropdown. Use your best"
+        "judgement. If you are unsure please select unknown."
       options:
         - 1-No Priority
         - 2-Low Priority
