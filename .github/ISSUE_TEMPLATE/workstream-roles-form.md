@@ -8,7 +8,9 @@ assignees: Kronoshus, st8tikratio
 ---
 
 Email: `Please provide this offline to the Coordination/Admin Group`
+
 Discord Handle (optional):
+
 X Handle (optional):
 
 ---
