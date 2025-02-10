@@ -1,19 +1,11 @@
 ---
 title: "Developer Feedback Form"
-#subtitle: "Please use this form to share feedback with the developers."
-#version: "0.1"
-#date: "10-Feb-2025"
 labels: "dev feedback"
-#output: form
 
 body:
   - type: markdown
     attributes:
       value: "## Use this form to share feedback with the developers."
-  # - type: markdown
-  #   attributes:
-  #     value: |
-  #       Please use this form to share feedback with the developers.
   - type: input
     id: date-time
     attributes:
@@ -36,7 +28,6 @@ body:
         - 4 - Med-High Priority
         - 5 - High Priority
         - 6 - Unknown
-      # required: true
   - type: markdown
     attributes:
       value: ---    
