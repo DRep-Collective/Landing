@@ -45,28 +45,28 @@ body:
         points:"
   - type: textarea
     label: 1. Current Progress
-    attributes:
-      id: current-progress
-      placeholder: Enter current progress info above. If none, type NONE
-    validations:
-      required: true
-  - type: textarea
-    label: 2. What's Next?
-    attributes:
-      id: whats-next
-      placeholder: Enter what's next info above. If none, type NONE
-    validations:
-      required: true
-  - type: textarea
-    label: 3. Opportunities, Obstructions, Assistance...
-    attributes:
-      id: opp-obs-help
-      placeholder: Enter any opportunities, obstructions or requested help above.
-    validations:
-      required: true
-  - type: markdown
-    attributes:
-      value: ---
+      attributes:
+        id: current-progress
+        placeholder: Enter current progress info above. If none, type NONE
+      validations:
+        required: true
+  # - type: textarea
+  #   label: 2. What's Next?
+  #   attributes:
+  #     id: whats-next
+  #     placeholder: Enter what's next info above. If none, type NONE
+  #   validations:
+  #     required: true
+  # - type: textarea
+  #   label: 3. Opportunities, Obstructions, Assistance...
+  #     attributes:
+  #       id: opp-obs-help
+  #       placeholder: Enter any opportunities, obstructions or requested help above.
+  #     validations:
+  #       required: true
+  # - type: markdown
+  #   attributes:
+  #     value: ---
   - type: markdown
     attributes:
       value: "## Drag and drop any files associated with your experience."
