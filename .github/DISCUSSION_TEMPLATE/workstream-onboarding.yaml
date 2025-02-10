@@ -58,7 +58,7 @@ body:
   - type: markdown
     attributes:
       value: "### Please fill in as much or as little of the fields below. It is all optional:"
-  - type: dropbox
+  - type: dropdown
     id: drep
     attributes:
       label: "Are you currently a Cardano governance DRep?"
@@ -67,7 +67,7 @@ body:
         - No
     validations:
       required: false
-  - type: dropbox
+  - type: dropdown
     id: drep
     attributes:
       label: "Would you like more information on DReps?"
