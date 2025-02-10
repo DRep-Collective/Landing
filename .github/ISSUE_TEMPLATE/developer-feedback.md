@@ -8,6 +8,8 @@ assignees: Alpine-Oracle, dgarey
 ---
 
 Email (optional):
+Discord Handle (optional):
+X Handle (optional):
 
 ---
 
