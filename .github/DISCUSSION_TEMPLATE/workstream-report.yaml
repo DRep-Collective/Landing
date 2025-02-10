@@ -54,14 +54,14 @@ body:
     attributes:
       label: "2. What's Next?"
       id: whats-next
-      placeholder: "Enter what's next info. If none, type NONE
+      placeholder: "Enter what's next info. If none, type NONE."
     validations:
       required: true
   - type: textarea
     attributes:
       label: "3. Opportunities, Obstructions, Assistance..."
       id: opp-obs-help
-      placeholder: Enter any opportunities, obstructions or requested help above.
+      placeholder: "Enter any opportunities, obstructions or requested help."
     validations:
       required: true
   - type: markdown
