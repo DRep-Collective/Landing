@@ -44,8 +44,8 @@ body:
       value: "Please add any text based feedback here based on the following three
         points:"
   - type: textarea
-    label: "1. Current Progress"
     attributes:
+      label: "1. Current Progress"
       id: current-progress
       placeholder: "Enter current progress info above. If none, type NONE."
     validations:
