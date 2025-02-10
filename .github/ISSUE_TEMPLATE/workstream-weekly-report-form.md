@@ -12,7 +12,9 @@ What date are you submitting this from for? `Example 05-Feb-2025 Meeting`
 ---
 
 Email (optional):
+
 Discord Handle (optional):
+
 X Handle (optional):
 
 ---
@@ -39,7 +41,7 @@ Please add any text based on the following three points:
 
 ---
 
-Please attach any files (draga and drop):
+Please attach any files (drag and drop):
 
 
 ---
