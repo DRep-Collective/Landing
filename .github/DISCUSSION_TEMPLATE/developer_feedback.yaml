@@ -8,7 +8,7 @@ body:
   id: date-time
   attributes:
     label: "Date and Time"
-    description: "Please provide the date and time you experienced this issue.
+    description: "Please provide the date and time you experienced this issue."
     # placeholder: "1300 UTC, 12-Jan-2025"
     required: true
 - type: markdown
