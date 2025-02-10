@@ -1,0 +1,106 @@
+---
+title: "Workstream Onboarding Form"
+labels: "workstream onboarding"
+
+body:
+  - type: markdown
+    attributes:
+      value: "# Workstream Group Onboarding Form"
+  - type: markdown
+    attributes:
+      value: |
+        Use this form to show interest in joining any of the currently available workstream groups.
+  - type: input
+    id: discord-id
+    attributes:
+      label: "Discord Handle (optional)"
+      description: "Enter your Discord username"
+      placeholder: "@ratio13"
+    validations:  
+      required: false
+  - type: input
+    id: x-id
+    attributes:
+      label: "X Handle (optional)"
+      description: "Enter your X (Twitter) username"
+      placeholder: "@st8tik"
+    validations:  
+      required: false
+  - type: input
+    id: date-time
+    attributes:
+      label: Provide the DATE and TIME of form creation
+      description: Date [dd-mmm-yyyy] and Time [1300 UTC]
+      placeholder: 12-Jan-2025, 1300 UTC
+    validations:
+      required: true
+  - type: markdown
+    attributes:
+      value: ---
+  - type: checkboxes
+    id: which-group
+    attributes:
+      label: "For which workstream working group(s) are you interested in joining?"
+      options:
+        - label: Coordination & Admin
+        - label: Metadata Standards
+        - label: Ecosystem Mapping
+        - label: Partnerships
+        - label: Social Media & Marketing
+        - label: Front End Development
+        - label: Back End Development
+        - label: GitHub & Archiving
+    validations:
+      required: true
+  - type: markdown
+    attributes:
+      value: ---
+  - type: markdown
+    attributes:
+      value: "### Please fill in as much or as little of the fields below. It is all optional:"
+  - type: dropbox
+    id: drep
+    attributes:
+      label: "Are you currently a Cardano governance DRep?"
+      options:
+        - Yes
+        - No
+    validations:
+      required: false
+  - type: dropbox
+    id: drep
+    attributes:
+      label: "Would you like more information on DReps?"
+      options:
+        - Yes
+        - No
+        - NA
+    validations:
+      required: false
+  - type: textarea
+    attributes:
+      label: "Please list any relevant experience."
+      id: experience
+      placeholder: "Independent developer, DRep, and attorney."
+    validations:
+      required: false
+  - type: textarea
+    attributes:
+      label: "Please list any associations or organizations you are a member of."
+      id: assoc-orgs
+      placeholder: "Upsilon Pi Epsilon, Legion of Foreign Wars, Intersect."
+    validations:
+      required: false
+  - type: textarea
+    attributes:
+      label: "Please provide any current, or ongoing, projects or intitiatives you belong to."
+      id: projects-initiatives
+      placeholder: "Principles of Governance now depricated. Women of Cardano server administrator - ongoing."
+    validations:
+      required: false
+  - type: markdown
+    attributes:
+      value: ---
+  - type: markdown
+    attributes:
+      value: "### Drag and drop any files you would like to share."
