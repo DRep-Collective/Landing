@@ -1,4 +1,3 @@
-
 ---
 body:
   - type: markdown
@@ -30,7 +29,7 @@ body:
         - 4-Med-High Priority
         - 5-High Priority
         - 6-Unknown
-      required: true
+      # required: true
   - type: textarea
     id: issue-description
     attributes:
