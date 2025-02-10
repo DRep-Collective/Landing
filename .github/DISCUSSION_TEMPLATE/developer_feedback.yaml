@@ -1,9 +1,9 @@
 ---
 body:
   - type: markdown
-    value: # Developer Feedback Form
+      value: # Developer Feedback Form
   - type: markdown
-    value: |
+      value: |
       Please use this form to share feedback with the developers.
   - type: input
     id: date-time
@@ -13,7 +13,7 @@ body:
       placeholder: 1300 UTC, 12-Jan-2025
       required: true
   - type: markdown
-    value: " --- "
+      value: " --- "
   - type: dropdown
     id: severity
     attributes:
@@ -34,4 +34,4 @@ body:
       descrioption: Please share any text feedback related to the issue being reported.
       placeholder: Enter your text here.
   - type: markdown
-    value: "## Drag and drop any files associated with your experience."
+      value: "## Drag and drop any files associated with your experience."
