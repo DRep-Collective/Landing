@@ -63,8 +63,8 @@ body:
     attributes:
       label: "Are you currently a Cardano governance DRep?"
       options:
-        - Yes
-        - No
+        - "Yes"
+        - "No"
     validations:
       required: false
   - type: dropdown
@@ -72,9 +72,9 @@ body:
     attributes:
       label: "Would you like more information on DReps?"
       options:
-        - Yes
-        - No
-        - NA
+        - "Yes"
+        - "No"
+        - "NA"
     validations:
       required: false
   - type: textarea
