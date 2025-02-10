@@ -61,7 +61,7 @@ body:
   - type: textarea
     id: issue-description
     attributes:
-      label: Please share any text feedback related to the issue being reported.
+      label: Please share any text feedback related to the issue being reported. If you selected OTHER above please also list which product/project here.
       description: Text description of issue(s).
       placeholder: Enter your text here.
     validations:  
