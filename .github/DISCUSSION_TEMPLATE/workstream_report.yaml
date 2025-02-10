@@ -84,9 +84,9 @@ body:
       value: ---
   - type: textarea
     attributes:
-      label: "Provide any document links associated with this update. If none, type NONE"
+      label: "Provide any document links associated with this update."
       id: more-links
-      placeholder: "https://github.com/DRep-Collective/Landing/blob/main/README.md"
+      placeholder: "Provide additional links to relevant data here. If there is none, type NONE."
     validations:
       required: true
  
