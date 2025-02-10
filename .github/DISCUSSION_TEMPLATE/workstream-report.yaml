@@ -11,21 +11,21 @@ body:
       value: |
         Use this form to provide weekly workstream updates.
   - type: input
-      id: discord-id
-      attributes:
-        label: "Discord Handle (optional)"
-        description: "Enter your Discord username"
-        placeholder: "@ratio13"
-      validations:  
-        required: false
+    id: discord-id
+    attributes:
+      label: "Discord Handle (optional)"
+      description: "Enter your Discord username"
+      placeholder: "@ratio13"
+    validations:  
+      required: false
   - type: input
-      id: x-id
-      attributes:
-        label: "X Handle (optional)"
-        description: "Enter your X (Twitter) username"
-        placeholder: "@st8tik"
-      validations:  
-        required: false        
+    id: x-id
+    attributes:
+      label: "X Handle (optional)"
+      description: "Enter your X (Twitter) username"
+      placeholder: "@st8tik"
+    validations:  
+      required: false
   - type: input
     id: date-time
     attributes:
