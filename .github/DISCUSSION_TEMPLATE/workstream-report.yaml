@@ -1,70 +1,70 @@
 ---
-title: "Weekly Workstream Reporting Form"
-labels: "workstream update"
-
+title: Weekly Workstream Reporting Form
+labels: workstream update
 body:
-- type: markdown
-  attributes:
+  - type: markdown
+    attributes:
       value: "# Weekly Workstream Update"
-- type: markdown
-  attributes:
-    value: |
-      Use this form to provide weekly workstream updates.
-- type: input
-  id: date-time
-  attributes:
-    label: "Provide the DATE and TIME of form creation"
-    description: "Date [dd-mmm-yyyy] and Time [1300 UTC]"
-    placeholder: "12-Jan-2025, 1300 UTC"
-  validations:  
-    required: true
-- type: markdown
-  attributes:
-    value: ---
-- type: checkboxes
-  id: which-group
-  attributes:
-    label: "For which working group(s) are you providing this workstream update?"
-    description: 
-    options:
-      - label: Coordination & Admin
-      - label: Metadata Standards
-      - label: Ecosystem Mapping
-      - label: Partnerships
-      - label: Social Media & Marketing
-      - label: Fron End Development
-      - label: Back End Development
-      - label: GitHub & Archiving
-  validations:
-    required: true
-- type: markdown
-  attributes:
-    value: ---
-- type: markdown
-  attributes:
-      value: "Please add any text based feedback here based on the following three points:"
-- type: textarea
-  label: "1. Current Progress"
-  attributes:
-    id: current-progress
-    placeholder: "Enter current progress info above. If none, type NONE"
-  validations:
-    required: true
-- type: textarea
-  label: "2. What's Next?"
-  attributes:
-    id: whats-next
-    placeholder: "Enter what's next info above. If none, type NONE"
-- type: textarea
-  label: "3. Opportunities, Obstructions, Assistance..."
-  attributes:
-    id: opp-obs-help
-    placeholder: "Enter any opportunities, obstructions or requested help above."
-  validations:
-    required: true
-- type: markdown
-  attributes:
-    value: ---
-- type: markdown
-  attributes:
-    value: "## Drag and drop any files associated with your experience."
+  - type: markdown
+    attributes:
+      value: |
+        Use this form to provide weekly workstream updates.
+  - type: input
+    id: date-time
+    attributes:
+      label: Provide the DATE and TIME of form creation
+      description: Date [dd-mmm-yyyy] and Time [1300 UTC]
+      placeholder: 12-Jan-2025, 1300 UTC
+    validations:
+      required: true
+  - type: markdown
+    attributes:
+      value: ---
+  - type: checkboxes
+    id: which-group
+    attributes:
+      label: For which working group(s) are you providing this workstream update?
+      description: null
+      options:
+        - label: Coordination & Admin
+        - label: Metadata Standards
+        - label: Ecosystem Mapping
+        - label: Partnerships
+        - label: Social Media & Marketing
+        - label: Front End Development
+        - label: Back End Development
+        - label: GitHub & Archiving
+    validations:
+      required: true
+  - type: markdown
+    attributes:
+      value: ---
+  - type: markdown
+    attributes:
+      value: "Please add any text based feedback here based on the following three
+        points:"
+  - type: textarea
+    label: 1. Current Progress
+    attributes:
+      id: current-progress
+      placeholder: Enter current progress info above. If none, type NONE
+    validations:
+      required: true
+  - type: textarea
+    label: 2. What's Next?
+    attributes:
+      id: whats-next
+      placeholder: Enter what's next info above. If none, type NONE
+  - type: textarea
+    label: 3. Opportunities, Obstructions, Assistance...
+    attributes:
+      id: opp-obs-help
+      placeholder: Enter any opportunities, obstructions or requested help above.
+    validations:
+      required: true
+  - type: markdown
+    attributes:
+      value: ---
+  - type: markdown
+    attributes:
+      value: "## Drag and drop any files associated with your experience."
