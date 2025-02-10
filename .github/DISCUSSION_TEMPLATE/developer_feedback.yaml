@@ -4,7 +4,7 @@ body:
       value: "# Developer Feedback Form"
   - type: markdown
       value: |
-      Please use this form to share feedback with the developers.
+        Please use this form to share feedback with the developers.
   - type: input
     id: date-time
     attributes:
