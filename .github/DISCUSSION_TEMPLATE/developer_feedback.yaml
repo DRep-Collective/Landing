@@ -7,7 +7,7 @@ body:
 - type: input
   id: date-time
   attributes:
-    label: Date and Time
+    label: "Date and Time"
     description: "Please provide the date and time you experienced this issue.
     placeholder: "1300 UTC on 12-Jan-2025"
     required: true
@@ -32,5 +32,5 @@ body:
     label: Text description of issue(s)
     descrioption: "Please share any text feedback related to the issue being reported."
     placeholder: "Enter your text here."
-- - type: markdown
+- type: markdown
   value: ## Drag and drop any files associated with your experience.
