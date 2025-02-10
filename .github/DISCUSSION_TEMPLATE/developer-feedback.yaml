@@ -4,8 +4,12 @@ labels: "dev feedback"
 
 body:
   - type: markdown
+    attributions:
+      value: "# Developer Feedback Form"
+  - type: markdown
     attributes:
-      value: "## Use this form to share feedback with the developers."
+      value: |
+        Use this form to share feedback with the developers."
   - type: input
     id: discord-id
     attributes:
