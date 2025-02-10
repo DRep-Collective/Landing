@@ -8,6 +8,22 @@ The DRep Collective is a community initiative created to provide greater visibil
 We continue to push for an informed international community and encourage all DReps to join the intitiative and, by extension, increasing the overall governance participation rate.
 
 ---
+## JOIN THE CORE BUILD TEAM
+- via [GitHub Discussions](https://github.com/orgs/DRep-Collective/discussions/categories/workstream_onboarding)
+- via [GitHub Issues](https://github.com/DRep-Collective/Landing/issues/new?template=workstream-roles-form.md) - click `Create`
+
+
+## FEEDBACK & FORMS
+
+#### Developer Feedback
+- via [GitHub Discussions](https://github.com/orgs/DRep-Collective/discussions/categories/developer_feedback)
+- via [GitHub Issues](https://github.com/DRep-Collective/Landing/issues/new?template=developer-feedback.md) - click `Create`
+
+#### Workstream Updatea
+- via [GitHub Discussions](https://github.com/orgs/DRep-Collective/discussions/categories/workstream_report)
+- via [GitHub Issues](https://github.com/DRep-Collective/Landing/issues/new?template=workstream-weekly-report-form.md) - click `Create`
+
+---
 
 ## CONTACT INFORMATION & RELEVANT LINKS
 
