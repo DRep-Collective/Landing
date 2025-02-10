@@ -8,7 +8,9 @@ assignees: Alpine-Oracle, dgarey
 ---
 
 Email (optional):
+
 Discord Handle (optional):
+
 X Handle (optional):
 
 ---
@@ -23,12 +25,12 @@ Please rate the severity of the problem, if known, on a scale of 1 to 5, with 5 
 ---
 
 Please add any text feedback:
-- 
+ 
 
 
 ---
 
-What date and time did you observer the issue?
+What date and time did you observe the issue?
 - Date (dd-mm-yyyy):
 - Time (UTC):
 
