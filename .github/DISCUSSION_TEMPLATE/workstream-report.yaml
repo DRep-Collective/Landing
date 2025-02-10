@@ -1,6 +1,7 @@
 ---
-title: Weekly Workstream Reporting Form
-labels: workstream update
+title: "Weekly Workstream Reporting Form"
+labels: "workstream update"
+
 body:
   - type: markdown
     attributes:
@@ -23,7 +24,7 @@ body:
   - type: checkboxes
     id: which-group
     attributes:
-      label: For which working group(s) are you providing this workstream update?
+      label: "For which working group(s) are you providing this workstream update?"
       # description: null
       options:
         - label: Coordination & Admin
