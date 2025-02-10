@@ -2,7 +2,8 @@
 ---
 body:
   - type: markdown
-    value: "# Developer Feedback Form"
+    attributes:
+      value: "# Developer Feedback Form"
   - type: markdown
     attributes:
       value: |
@@ -16,7 +17,8 @@ body:
     validations:  
       required: true
   - type: markdown
-    value: ---
+    attributes:
+      value: ---
   - type: dropdown
     id: severity
     attributes:
@@ -36,4 +38,5 @@ body:
       description: Please share any text feedback related to the issue being reported.
       placeholder: Enter your text here.
   - type: markdown
-    value: "## Drag and drop any files associated with your experience."
+    attributes:
+      value: "## Drag and drop any files associated with your experience."
