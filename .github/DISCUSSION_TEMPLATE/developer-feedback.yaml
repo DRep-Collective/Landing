@@ -4,7 +4,7 @@ labels: "dev feedback"
 
 body:
   - type: markdown
-    attributions:
+    attributes:
       value: "# Developer Feedback Form"
   - type: markdown
     attributes:
