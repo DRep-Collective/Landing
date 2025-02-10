@@ -11,7 +11,9 @@ What date are you submitting this from for? `Example 05-Feb-2025 Meeting`
 
 ---
 
-Email (Optional):
+Email (optional):
+Discord Handle (optional):
+X Handle (optional):
 
 ---
 
