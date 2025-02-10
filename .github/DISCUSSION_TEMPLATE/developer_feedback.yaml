@@ -31,7 +31,7 @@ body:
         - 5-High Priority
         - 6-Unknown
       required: true
-  - type: text-area
+  - type: textarea
     id: issue-description
     attributes:
       label: Text description of issue(s)
