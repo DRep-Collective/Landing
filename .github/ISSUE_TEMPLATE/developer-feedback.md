@@ -29,7 +29,7 @@ Please add any text feedback:
 ---
 
 What date and time did you observer the issue?
-- Date (dd-mm-year):
+- Date (dd-mm-yyyy):
 - Time (UTC):
 
 ---
