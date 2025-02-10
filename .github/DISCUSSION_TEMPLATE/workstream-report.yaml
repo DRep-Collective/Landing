@@ -76,7 +76,7 @@ body:
     attributes:
       label: "3. Opportunities, Obstructions, Assistance..."
       id: opp-obs-help
-      placeholder: "Enter any opportunities, obstructions or requested help."
+      placeholder: "Enter any opportunities, obstructions or requested help. If none type NONE"
     validations:
       required: true
   - type: markdown
