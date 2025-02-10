@@ -9,11 +9,11 @@ labels: "dev feedback"
 body:
   - type: markdown
     attributes:
-      value: "## Please use this form to share feedback with the developers."
-  - type: markdown
-    attributes:
-      value: |
-        Please use this form to share feedback with the developers.
+      value: "## Use this form to share feedback with the developers."
+  # - type: markdown
+  #   attributes:
+  #     value: |
+  #       Please use this form to share feedback with the developers.
   - type: input
     id: date-time
     attributes:
