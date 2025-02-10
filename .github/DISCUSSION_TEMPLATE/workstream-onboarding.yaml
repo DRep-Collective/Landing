@@ -68,7 +68,7 @@ body:
     validations:
       required: false
   - type: dropdown
-    id: drep
+    id: drep-info
     attributes:
       label: "Would you like more information on DReps?"
       options:
