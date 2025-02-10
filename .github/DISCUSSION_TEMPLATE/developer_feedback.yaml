@@ -39,6 +39,8 @@ body:
       label: Please share any text feedback related to the issue being reported.
       description: Text description of issue(s).
       placeholder: Enter your text here.
+    validations:  
+      required: true  
   - type: markdown
     attributes:
       value: "## Drag and drop any files associated with your experience."
