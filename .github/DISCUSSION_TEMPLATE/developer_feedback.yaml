@@ -30,6 +30,9 @@ body:
         - 5-High Priority
         - 6-Unknown
       # required: true
+  - type: markdown
+    attributes:
+      value: ---    
   - type: textarea
     id: issue-description
     attributes:
