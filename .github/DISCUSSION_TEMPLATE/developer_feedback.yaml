@@ -1,0 +1,35 @@
+body:
+- type: markdown
+  value: # Developer Feedback Form
+- type: markdown  
+  value: | 
+         Please use this form to share feedback with the developers.
+- type: input
+  id: date-time
+  attributes:
+    label: Date & Time
+    description: "Please provide the date and time you experienced this issue.
+    placeholder: " 1300 UTC, 12-Jan-2025
+    required: true
+- type: markdown  
+  value: ---
+- type: dropdown
+  id: severity
+  attributes:
+    label: Please rate the severity of this issue from the dropdown. Use your best judgement. If you are unsure please select `unknown`.
+    options:
+      - 1. No Priority
+      - 2. Low Priority
+      - 3. Medium Priority
+      - 4. Med-High Priority
+      - 5. High Priority
+      - 6. Unknown
+  validations:
+    required: true
+- type: text-area
+  id: issue-description
+  attributes:
+    label: "Please share any text feedback related to the issue being reported."
+    placeholder: "Enter your text here."
+- - type: markdown
+  value: ## Drag and drop any files associated with your experience.
