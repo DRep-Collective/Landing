@@ -1,18 +1,18 @@
 body:
 - type: markdown
-  value: # Developer Feedback Form
+  value: "# Developer Feedback Form"
 - type: markdown  
   value: | 
-         Please use this form to share feedback with the developers.
+    Please use this form to share feedback with the developers.
 - type: input
   id: date-time
   attributes:
-    label: Date & Time
+    label: Date and Time
     description: "Please provide the date and time you experienced this issue.
     placeholder: "1300 UTC, 12-Jan-2025"
     required: true
 - type: markdown  
-  value: ---
+  value: "---"
 - type: dropdown
   id: severity
   attributes:
@@ -29,7 +29,8 @@ body:
 - type: text-area
   id: issue-description
   attributes:
-    label: "Please share any text feedback related to the issue being reported."
+    label: Text description of issue(s)
+    descrioption: "Please share any text feedback related to the issue being reported."
     placeholder: "Enter your text here."
 - - type: markdown
   value: ## Drag and drop any files associated with your experience.
