@@ -1,7 +1,7 @@
 ---
 body:
   - type: markdown
-    value: "# Developer Feedback Form"
+    value: # Developer Feedback Form
   - type: markdown
     value: |
       Please use this form to share feedback with the developers.
