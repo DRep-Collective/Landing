@@ -68,5 +68,5 @@ body:
     attributes:
       value: ---
   - type: markdown
-      attributes:
-        value: "## Drag and drop any files associated with your experience."
+    attributes:
+      value: "## Drag and drop any files associated with your experience."
