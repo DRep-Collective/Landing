@@ -40,6 +40,13 @@ body:
   - type: dropdown
     id: severity
     attributes:
+      label: "Select the product/project with these issues."
+      options:
+        - "DRep Sensemaking App"
+        - "Other"
+  - type: dropdown
+    id: severity
+    attributes:
       label: "Please rate the severity of this issue from the dropdown. Use your best judgement. If you are unsure please select unknown."
       options:
         - 1 - No Priority
