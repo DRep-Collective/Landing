@@ -25,7 +25,6 @@ body:
     id: which-group
     attributes:
       label: "For which working group(s) are you providing this workstream update?"
-      # description: null
       options:
         - label: Coordination & Admin
         - label: Metadata Standards
@@ -44,13 +43,13 @@ body:
     attributes:
       value: "Please add any text based feedback here based on the following three
         points:"
-  # - type: textarea
-  #   label: 1. Current Progress
-  #   attributes:
-  #     id: current-progress
-  #     placeholder: Enter current progress info above. If none, type NONE
-  #   validations:
-  #     required: true
+  - type: textarea
+    label: "1. Current Progress"
+    attributes:
+      id: current-progress
+      placeholder: "Enter current progress info above. If none, type NONE."
+    validations:
+      required: true
   # - type: textarea
   #   label: 2. What's Next?
   #   attributes:
