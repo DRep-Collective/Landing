@@ -23,12 +23,12 @@ body:
     attributes:
       label: "Please rate the severity of this issue from the dropdown. Use your best judgement. If you are unsure please select unknown."
       options:
-        - 1-No Priority
-        - 2-Low Priority
-        - 3-Medium Priority
-        - 4-Med-High Priority
-        - 5-High Priority
-        - 6-Unknown
+        - 1 - No Priority
+        - 2 - Low Priority
+        - 3 - Medium Priority
+        - 4 - Med-High Priority
+        - 5 - High Priority
+        - 6 - Unknown
       # required: true
   - type: markdown
     attributes:
