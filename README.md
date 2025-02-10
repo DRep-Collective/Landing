@@ -37,7 +37,7 @@ We continue to push for an informed international community and encourage all DR
 - [Discord](https://discord.gg/VHzZCBxNDm) • [GitHub](https://github.com/DRep-Collective) • [Telegram](https://t.me/+Y1HJLBoLK-UyNDc5) • [LinkedIn](https://www.linkedin.com/company/the-drep-collective/) • [Facebook](https://www.facebook.com/profile.php?id=61572466194346) • [WhatsApp](https://chat.whatsapp.com/KZVsqc3GrLhIkkyMX6KKYR) • [DRep Forum](https://linktr.ee/drepforum)
 
 #### Resources and Documents
-- [Meeting Minutes](https://github.com/DRep-Collective/Landing/tree/main/docs/meeting-minutes) & [Slides](https://github.com/DRep-Collective/Landing/tree/main/docs/meeting-minutes/slides)
+- [Meeting Minutes](https://github.com/DRep-Collective/Landing/blob/main/docs/meeting-minutes/index.md) & [Slides](https://github.com/DRep-Collective/Landing/tree/main/docs/meeting-minutes/slides)
 - [All Things DRep](https://github.com/DRep-Collective/landing/blob/main/resources/all-things-drep.md)
 - [All Documents](https://github.com/DRep-Collective/Landing/blob/main/docs/index.md)
 
