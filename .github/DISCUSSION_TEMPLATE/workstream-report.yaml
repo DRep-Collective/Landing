@@ -47,26 +47,26 @@ body:
     attributes:
       label: "1. Current Progress"
       id: current-progress
-      placeholder: "Enter current progress info above. If none, type NONE."
+      placeholder: "Enter current progress info. If none, type NONE."
     validations:
       required: true
-  # - type: textarea
-  #   label: 2. What's Next?
-  #   attributes:
-  #     id: whats-next
-  #     placeholder: Enter what's next info above. If none, type NONE
-  #   validations:
-  #     required: true
-  # - type: textarea
-  #   label: 3. Opportunities, Obstructions, Assistance...
-  #     attributes:
-  #       id: opp-obs-help
-  #       placeholder: Enter any opportunities, obstructions or requested help above.
-  #     validations:
-  #       required: true
-  # - type: markdown
-  #   attributes:
-  #     value: ---
+  - type: textarea
+    attributes:
+      label: "2. What's Next?"
+      id: whats-next
+      placeholder: "Enter what's next info. If none, type NONE
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: "3. Opportunities, Obstructions, Assistance..."
+      id: opp-obs-help
+      placeholder: Enter any opportunities, obstructions or requested help above.
+    validations:
+      required: true
+  - type: markdown
+    attributes:
+      value: ---
   - type: markdown
     attributes:
       value: "## Drag and drop any files associated with your experience."
