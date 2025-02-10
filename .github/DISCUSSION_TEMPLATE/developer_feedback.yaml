@@ -4,7 +4,7 @@ title: "Developer Feedback Form"
 #version: "0.1"
 #date: "10-Feb-2025"
 labels: "dev feedback"
-output: form
+#output: form
 
 body:
   - type: markdown
