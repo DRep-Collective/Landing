@@ -82,6 +82,11 @@ body:
   - type: markdown
     attributes:
       value: ---
-  - type: markdown
+  - type: textarea
     attributes:
-      value: "### Drag and drop any files associated with your update(s)."
+      label: "Provide any document links associated with this update. If none, type NONE"
+      id: more-links
+      placeholder: "https://github.com/DRep-Collective/Landing/blob/main/README.md"
+    validations:
+      required: true
+ 
