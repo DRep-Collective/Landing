@@ -61,11 +61,8 @@ body:
   - type: textarea
     id: issue-description
     attributes:
-      label: "Please share any text feedback related to the issue being reported. If you selected OTHER above please also list which product/project here."
+      label: "Please share any text feedback related to the issue being reported. If you selected OTHER above please also list which product/project here. You may also include any associated files in this area by clicking paperclip."
       description: Text description of issue(s).
       placeholder: Enter your text here.
     validations:  
-      required: true  
-  - type: markdown
-    attributes:
-      value: "### Drag and drop any files associated with your experience."
+      required: true
