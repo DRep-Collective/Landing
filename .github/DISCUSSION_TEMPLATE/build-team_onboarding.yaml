@@ -1,11 +1,11 @@
 ---
-title: "Workstream Onboarding Form"
-labels: "workstream onboarding"
+title: "Build-Team Onboarding Form"
+labels: "build-team-onboarding","team - coordination / admin"
 
 body:
   - type: markdown
     attributes:
-      value: "# Workstream Group Onboarding Form"
+      value: "# Build-Team Onboarding Form"
   - type: markdown
     attributes:
       value: |
@@ -40,7 +40,7 @@ body:
   - type: checkboxes
     id: which-group
     attributes:
-      label: "For which workstream working group(s) are you interested in joining?"
+      label: "Which team(s) are you interested in joining?"
       options:
         - label: Coordination & Admin
         - label: Metadata Standards
