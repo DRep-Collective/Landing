@@ -1,6 +1,6 @@
 ---
 title: "Build-Team Onboarding Form"
-labels: "build-team-onboarding","team - coordination / admin"
+labels: "build-team-onboarding, team - coordination / admin"
 
 body:
   - type: markdown
