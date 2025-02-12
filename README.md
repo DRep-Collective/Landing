@@ -30,7 +30,7 @@ We continue to push for an informed international community and encourage all DR
 
 ---
 
-## CONTACT INFORMATION & RELEVANT LINKS
+## CONTACT INFORMATION
 
 #### Website (in progress)
 - [Coming Soon-ish]
@@ -41,14 +41,18 @@ We continue to push for an informed international community and encourage all DR
 #### Platform Links
 - [Discord](https://discord.gg/VHzZCBxNDm) • [GitHub](https://github.com/DRep-Collective) • [Telegram](https://t.me/+Y1HJLBoLK-UyNDc5) • [LinkedIn](https://www.linkedin.com/company/the-drep-collective/) • [Facebook](https://www.facebook.com/profile.php?id=61572466194346) • [WhatsApp](https://chat.whatsapp.com/KZVsqc3GrLhIkkyMX6KKYR) • [DRep Forum](https://linktr.ee/drepforum)
 
-#### Resources and Documents
-- [Meeting Minutes](https://github.com/DRep-Collective/Landing/blob/main/docs/meeting-minutes/index.md) & [Slides](https://github.com/DRep-Collective/Landing/tree/main/docs/meeting-minutes/slides)
+---
+
+## RESOURCES & DOCUMENTS
+- [Meeting Minutes](https://github.com/DRep-Collective/Landing/blob/main/docs/meeting-minutes/index.md) • [Slides](https://github.com/DRep-Collective/Landing/tree/main/docs/meeting-minutes/slides)
 - [All Things DRep](https://github.com/DRep-Collective/landing/blob/main/resources/all-things-drep.md)
 - [All Documents](https://github.com/DRep-Collective/Landing/blob/main/docs/index.md)
 
-#### Initiatives
-- [CIP-119 Extension](https://drep-eco.vercel.app/cip148) - fka CIP-148 - proposed
-- [DRep Ecosystem Map](https://drep-eco.vercel.app/map) - POC
+---
+
+## INITIATIVES
+- [CIP-119 Extension](https://drep-eco.vercel.app/cip148) • fka CIP-148 • proposed
+- [DRep Ecosystem Map](https://drep-eco.vercel.app/) • Proof Of Concept
 
 ---
 
