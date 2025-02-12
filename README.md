@@ -12,6 +12,12 @@ We continue to push for an informed international community and encourage all DR
 - via [GitHub Discussions](https://github.com/orgs/DRep-Collective/discussions/categories/workstream_onboarding)
 - via [GitHub Issues](https://github.com/DRep-Collective/Landing/issues/new?template=workstream-roles-form.md) - click `Create`
 
+---
+
+## HOURS OF AVAILABILITY
+- Disregard the dates provided. Show your [general weekly availability](https://www.when2meet.com/?28975121-mDUGF). This link is very public. Password is not necessary but keeps others from changing your hours.
+
+---
 
 ## FEEDBACK & FORMS
 
