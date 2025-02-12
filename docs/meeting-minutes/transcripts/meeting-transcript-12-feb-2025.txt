@@ -1,0 +1,748 @@
+📖 Transcript
+
+Meeting Feb 12, 2025 at 08:56 CST -
+
+TRANSCRIPT
+00:00:00
+Matthew Capps: Hey, we made it. Yeah, I'm getting an echo from you. Typo. Maybe it's
+me. I don't know.
+Dominick Garey: No, couldn't me. Are we okay now? Looks like we're okay now.
+Matthew Capps: Yeah, we're good. You sound great.
+Kevin Mohr: Indeed. But I kind of want to see what ratio is. I want to try this thing, this
+new
+Matthew Capps: Hi, Matthew.
+Kevin Mohr: video.
+Matthew Capps: Hey. Yeah, we should we should for sure. Yeah. Just didn't I wanted to
+make sure that uh if this one was going to work and other people were trying to get to
+this location that we could um rendevous here, right? And
+Dominick Garey: for
+Matthew Capps: get started.
+Dominick Garey: sure.
+Kevin Mohr: Right.
+Dominick Garey: I was looking at the meeting and I was logged in under my personal
+account.
+Kevin Mohr: It's all good. We're here now. That's what matters.
+Matthew Capps: We are
+Kevin Mohr: Let's give it
+Matthew Capps: all
+Kevin Mohr: a
+00:01:13
+Matthew Capps: right.
+Kevin Mohr: second here.
+Matthew Capps: I'm just pinging uh pinging Ben. Is Ben gonna
+Dominick Garey: I
+Matthew Capps: be talking? Yeah. Yeah.
+Dominick Garey: I did see he tried to join. Um let's see. He is. He should be able to
+Kevin Mohr: Ratio dropped his link if you want to go there.
+Matthew Capps: Let's just stick with this one for now. I mean, because we've got other
+people trying to get to this one, right? So, uh,
+Kevin Mohr: I don't know if he's going to show up. He's anti like Google and stuff. So,
+let's see. Hello, Ben. Excellent. All right. Ben's in the other one. So, and he can't he
+can't figure out how to get into this one. So,
+Dominick Garey: I was going to say if you can send him the link again and I can just
+make sure to be on it, but it's whatever.
+Matthew Capps: Yeah, just sending Ben the link again. We'll see if we can get him in
+here.
+00:02:47
+Dominick Garey: Awesome. Hey, Newman.
+Newman Lanier: How's it going?
+Ben O'Hanlon: I'm just going to get
+Dominick Garey: Good
+Ben O'Hanlon: the guys
+Dominick Garey: man.
+Ben O'Hanlon: to come over here.
+Matthew Capps: All righty. Great. Well, we've uh Oh, we're still missing ratio, but let's
+see if I can uh
+Newman Lanier: Uh, he told me about it. Uh oh, there's a he g he sent me a a
+message that's with a new a Jity me uh link. Are we meeting over
+Ben O'Hanlon: Okay.
+Newman Lanier: there?
+Ben O'Hanlon: Is this the is this the real DREP collective call or is it one of the fake
+ones that are rolling around?
+Dominick Garey: You know, he know it's the real and uncut.
+Derrick Oatway: Is there fake DREP calls now? That's If so,
+Ben O'Hanlon: There's
+Derrick Oatway: that's good news.
+Ben O'Hanlon: there's another DEP collective, right, that
+Derrick Oatway: Oh,
+Ben O'Hanlon: was
+Derrick Oatway: yeah.
+Ben O'Hanlon: owned.
+Derrick Oatway: Yeah, I seen that.
+Ben O'Hanlon: Yeah.
+Matthew Capps: slide deck you worked on.
+Kevin Mohr: So, I didn't do much work on this one, but um because we don't really
+have our communication set up for this yet.
+00:04:20
+Kevin Mohr: Let's see here. There we go. Yeah. So, welcome to the deer collective
+meeting number six. And um highlights from last meeting. I didn't put these on here. Um
+I believe this was you, Matthew, not me. Uh we identified leads and contributors for
+each work stream and then we agreed to return next week with initial plans of action for
+each work stream and then we reviewed uh current progress on the website that uh
+Alpine and Dagwell have been working on. So that's a little quick summary of last
+meeting agenda for this meeting. We're going to have workstream updates. Um and
+then we're going to have any sort of general discussion, any sort of items we want to
+bring up. Okay. All right. Yeah. And then introductions. We have some new people here.
+Um would anyone like to to start by introducing themselves? Um
+glafkos mitsidis: Yeah, sure. Hi guys.
+Kevin Mohr: but
+glafkos mitsidis: I'm I'm I'm new here, so I'm uh trying to see uh what this uh collective
+is all about, what we're what what work is being done here.
+00:05:43
+glafkos mitsidis: So, um I'll just observe if you don't mind and just if I can pitch it my
+way, I'll be glad to.
+Kevin Mohr: sounds good. And the Newman, we've we've seen you before. Do you
+want to introduce yourself?
+Newman Lanier: which I think is the foundation. Uh and uh Gimma Labs and Odin
+community are my uh where my my hangouts
+Kevin Mohr: have to. Oh, Ben, yes. You have something to say.
+Ben O'Hanlon: I just just for like people that are new to it um if you indulge 60 seconds
+Kevin I promise this 60 seconds right I I just say like the origins of this call working
+group was um on the one hand I was advocating that um you know uh we could
+improve metadata so that dreps could self-report roles and sectors and things like that
+which would mean they're less dependent on kind of like gatekeepers of perspective or
+or information and that if they to exchange their view of the ecosystem, they get a view
+of all the points which is going to help with decentralized sense making which is a
+precursor for decentralized decision- making.
+00:07:08
+Ben O'Hanlon: So I kind of wanted to advocate around improving metadata and
+basically we could use visual ecosystem maps with that metadata to help the whole
+community be empowered and understanding what the ecosystem looks like and and
+where these dreps are which means they could differentiate themselves. you would
+improve discovery because it's a decentralized distribution channel the ecosystem
+maps. So I had all these crazy ideas that I won't go any further into and then I met the
+DEP collective and they had awesome crazy ideas as well right around like sell bar
+NFTts and we got on a call and like we all got really excited and we were like well hang
+on like even when uh Kevin showed his like slides for the D collective he's like oh well
+one of the targets is we need you know 300 DR repres forum and we've got like 400
+DREPs in there right now and so so there was just this kind of lots of ingredients on the
+board and it just was like wow we're so aligned but we've been working separately but it
+almost seems like in parallel and so um that's why I'm here because I really believe that
+uh we have to move from this position of there being these experts or or leading
+orchestrators that have the correct opinion into into um a place where people can
+access what other people are seeing and hearing but navigate it more easily.
+00:08:44
+Kevin Mohr: And uh just just for the record, Matthew is now the moderator in terms of
+cutting people off, not me. So I'm not going to do that. All right. Excellent. Good. There's
+an understanding there. All right. Yeah. So, um, now we got the introductions out of the
+way here. Workstream updates. So, this is mine as a coordination guy. And uh as you
+can see this morning I thought that I owned the uh the link to this Google meet. It is
+actually I believe still owned by Dagwell. Um we are recording right? We did.
+Matthew Capps: We
+Kevin Mohr: Yeah.
+Matthew Capps: are
+Kevin Mohr: Okay. Excellent. Excellent. And so um I did a little moderation setup with
+uh ratio or not ratio um with Matthew. I made him moderator of like Telegram and
+WhatsApp and and Discord and whatever. Uh we worked with GitHub, uh Ratio and I
+did and Matthew and Ratio on their own.
+00:09:48
+Kevin Mohr: That was like two separate meetings. I checked in on Dominic and um and
+Derek here. And uh they'll they said they might have something to present to us today.
+I'm hoping that's still true. Um, consolidated some of the minutes from the last two
+meetings on GitHub, took them off of the Cardono forums, put them on there, too, just
+for, you know, good recordkeeping. Uh, what's next? Hopefully, you know, um, do a little
+promotional campaign and get to the ecosystem map and minting. I think that we've got
+the workstream sort of set up. So as long as we can um you know do use the work
+streams properly that's that's cool with me. Um needs uh eventually we need to start
+looking into funds. Everyone sort of needs this but especially people that are doing
+development. Um not to say that anyone's work doing administrative stuff or GitHub
+stuff or you know social media is not important but if we cannot get the development
+there's no point in promoting everything to the wider ecosystem.
+00:10:54
+Kevin Mohr: So um that'll bring us to the second workstream DAG well uh metadata
+standards. I didn't get anything from you from the forms or anything.
+Dominick Garey: Yeah, I'll jump on I'll jump on really quick. Um, please excuse me.
+We're we're registering with Puro to start distributing carbon credits on the chain and it
+it's a paperwork nightmare, but it also helped me think about metadata. Um, there are
+like so many different forms and buckets that you have to fill out. And I'm just like, gosh,
+if they had a metadata list that would make me know exactly what I'm looking for and
+easily highlight what pages I need, this process would be so much smoother. Um, so
+just continuing on, we've um, and I think we'll show you in the demonstration, but we
+have outlined what we feel is a standard that represents, and we'll talk a little bit more
+about how we collect that information in a bit. Um, but for right now, we are hopefully
+turning into the corner of a clear feedback stage where we're going to have people, hey,
+I don't like this.
+00:11:56
+Dominick Garey: I do like this. Um, to complement the work that we've already done.
+So, thank you.
+Kevin Mohr: All right. Excellent. Um, and by the way, did anyone have any questions
+for me or Dagwell on what we just said? Yes, Ben.
+Ben O'Hanlon: uh just that like um in short term we're throwing this stuff together proof
+of concept etc etc it it there needs to be a work stream we need to be thinking about
+and maybe I need help with it of like let we need to make sure insects aware of it not
+just the people I've socialized with it but over the past week or two we need to be going
+into the marketing working group and thinking how we're going to do that Matt and going
+into civics okay
+Matthew Capps: Not the whole thing. The MCC is part in some of the the general
+strategic bits, but not uh line by line yet. I will be going through it.
+Kevin Mohr: and we're I'll jump right to Matthew your slide here so we can go right into
+partnerships.
+00:13:16
+Kevin Mohr: So feel free to speak on that.
+Matthew Capps: Sure. Yeah. Um Oh. Uh okay. Yeah. So, we'll we'll loop back around to
+to exist mapping then with Ben. Um Yes. So, the uh no no updates from work on the
+past week. Uh what I need to hear actually is one to identify existing partnerships and
+two to um just check with each of the workstream owners what kinds of partnerships
+they do or you know maybe don't need but um so that's something that I can do um
+either now in the time uh in just like a couple of minutes we could sort of bounce around
+the room and just identify any existing partnerships and then if people want to go away
+and think about that we can also deal with some of it async, but um Ben, you just
+mentioned Intersect. So that's that's one that I'll note down here. Um for for funding in
+particular, are
+Ben O'Hanlon: Well,
+Matthew Capps: there
+Ben O'Hanlon: I
+Matthew Capps: other
+Ben O'Hanlon: think it's a a
+00:14:14
+Matthew Capps: Yeah.
+Ben O'Hanlon: c a core thing is getting involved in the marketing working group and
+presented to them and so that we don't put anyone's nose out of joint or we didn't we
+pitched it to the these people but we should have we should involve civics so that they
+understand it and and they're familiar with it as well. So somewhere in here I'm kind of
+thinking there's a proposal that we're writing and and also you know um what's the
+MVP? What is the timeline? So I think there's probably a proposal that we need to write.
+Doesn't have to be today. I'm just saying like by the time this budget thing gets
+happening insect need to know this is for anyone that's not familiar. I think that intersect
+is a coordination mechanism. And actually I'm kind of I'm making a false assumption
+because some people were crit critical of insects. So let me dial it back a little bit and
+just make the case. Right? My argument would be that the best place that you could
+show metadata and ecosystem maps being used would be insect because they are a
+coordinating mechanism.
+00:15:19
+Ben O'Hanlon: Where they've where they're challenged or falling down is on the
+communication side. So, you know, either you got to be in a working group, which
+requires time um and being in one place at a specific time. That's a high barrier, right?
+Or you've got to read a bunch of um notes and information, but the people that are
+putting that information out are haven't historically, I think, checked that it's landing with
+the right audience. And so, for that reason, a lot of good work in insect doesn't get seen
+or valued appropriately. And I would make the argument to insect, you are a
+coordination mechanism. you are your members and so you need to visually show
+people your coordination mechanism and DERPs are ultimately going to vote on your
+budget and this is us the DEP collective selling this to intersect right and we're saying
+do you it would be amazing if you had a portal or a map on your website that people
+could navigate and and um and the ecosystem and understand where the dreps are
+and we could help you improve the metadata we could help you create this dre
+ecosystem app and then we could help you bring wallets together to airdrop that
+ecosystem map to all these active ADA holders so that you're going to reduce ADA
+apathy and increase the amount of ADA that's active in participation.
+00:16:33
+Ben O'Hanlon: Right? Um now that's the pitch to sell. So therefore I think our biggest
+marketing billboard like we we're not giving it to Intersect like they own it. We're saying
+we'll do this for you as a service in the short term. We're proof of concepting it. In the
+long term, you need to give us some sustainable funding, but it's our best marketing
+billboard for the DREP collective and the metadata. And when you've rolled out the
+improvement proposals through the SIPs and you create this proof of concept with the
+map and the DREPs on it, you could then roll that out across other ecosystems like
+Bitcoin, Ethereum, Algorand um and do the same thing.
+Matthew Capps: Yeah, let's uh yeah, let's maybe we can get to a little bit more on the
+vision there uh in the ecosystem mapping section. Um because that's that's coming up
+for you in your work work stream, Ben. Um are there any other I just want to double
+check. Are there any other existing partnerships that uh we know of or uh any of you on
+your work streams that know you need a partnership that you don't currently have that I
+should start thinking about as the owner of this one?
+00:18:10
+Dominick Garey: We already are. I'm SP.
+Matthew Capps: XSPO. So maybe SPOS's, maybe DAO builders, but those are
+probably future things to think about. Um, okay, great. Yeah,
+Dominick Garey: What?
+Matthew Capps: so
+Dominick Garey: Uh
+Matthew Capps: that that gives me a place to start. Oh, D.
+Dominick Garey: um yeah also yeah that's an interesting thing because uh we run a
+stake point we have that's that's interesting how they connect I was you know I had a
+little confusion while we were voting on the constitution um another thing is that um and
+we this might not be relevant right now but um mama project we we help host the
+Hawaii blockchain summit um and you know I I want to talk to Ben uh to everyone but to
+Ben in specific Specifically, the thing about Hawaii, it's already got the infrastructure for
+um Japanese uh tourists. It's like number three on the tourist destination list. So, a lot of
+the infrastructure is already in Japanese. It's already there. Um I just I feel like it's an
+opportunity.
+00:19:17
+Dominick Garey: Um so, uh we have that partnership and we could um we could get a
+governance, um slot if we wanted to send someone there, maybe do a booth or
+something. It could be marketing or something of that nature. But it is um a way for us to
+mix up with the um with the crypto community at large and also have a pretty big have a
+pretty big stage like um because we can do like a a governance for like an hour a panel.
+We could do a DREP collective within um the blockchain governance. So I think it's just
+a really good way to um to really go after those um Japanese uh uh DREPs. That is our
+main focus. It's just the infrastructure is already there. So, I just
+Matthew Capps: What's what's the name of that? Uh the
+Dominick Garey: Oh, it's
+Matthew Capps: current
+Dominick Garey: the the the Hawaiian Blockchain Summit.
+Matthew Capps: Okay.
+Dominick Garey: And last year was the was that uh
+Matthew Capps: Hawaiian
+Dominick Garey: the
+Matthew Capps: Blockchain
+00:20:13
+Dominick Garey: it's
+Matthew Capps: Summit
+Dominick Garey: it is and we we're behind the scenes. We're actually doing a little
+coordinating with Wear Bloom to see if we can get like a sustainability track. Um so,
+possibly a partnership there as well. Um but right now it's in September. Last year it was
+scheduled like almost the same time as consensus. Um so that worked against them.
+Um but this year um it's just it's like an open platform and I just something inside of me
+when I heard when I heard the Japanese DREPs and just we we just got back um like
+two or three months ago from Hawaii and just going there and seeing all the
+infrastructure, seeing all the signs. I'm just like, "Oh my note, Hawaii, you you spent
+billions of dollars building this tourist destination and it's it's very interesting." So
+anyway, sorry.
+Matthew Capps: Yeah.
+Dominick Garey: Um so yeah, that is a a potential partnership um that we and I think
+we should also look at the um you know rare Evo and the events that are
+Cardonocentric or whatnot to get some partnerships a booth in there.
+00:21:11
+Dominick Garey: I really think everywhere Cardano's meeting governance is a part of
+that. So I
+Matthew Capps: Yeah.
+Dominick Garey: think that we have an open invitation to bring the D collective to
+anywhere people of Cardano are meeting. I think it's almost our responsibility in certain
+in certain lights.
+Matthew Capps: Yeah. Great points and thanks for that too.
+Dominick Garey: Of course.
+Matthew Capps: Uh if
+Dominick Garey: Thank you.
+Matthew Capps: any yeah if anybody else has uh you know thinks of somebody
+partnership or need for a partnership uh drop it in the chat and otherwise I want to get
+us moving on to uh our next section because we have we have eight of these work
+streams. So um yeah and uh what I'm doing as well as we go along is anything that's
+standing out as like a a big potential topic I'm putting that down in the general agenda
+items at the end. So if we have a chance when we get down to those we can just uh
+clean up the discussion on them. Uh, so actually I think Ben you're next with us is
+mapping but do
+00:22:03
+Ben O'Hanlon: Oh,
+Matthew Capps: you have
+Ben O'Hanlon: okay.
+Matthew Capps: a comment?
+Ben O'Hanlon: I was say, oh, there's questions in chat just so like just so I don't keep
+talking on the mic.
+Matthew Capps: Gotcha.
+Ben O'Hanlon: I put questions in there for you, Dagwell, in um in the chat. Uh what am
+I on? What what's my slide of update?
+Kevin Mohr: Yeah. So, Ben, uh, unilaterally last meeting, we made you the sort of head
+of ecosystem mapping because
+Ben O'Hanlon: Okay.
+Kevin Mohr: whatever we want you to have the final say in anything we do for this. So,
+uh, essentially you're the head of a work stream. Um, and we're going later Ratio is
+going to go over like sort of stuff that we could do with those work streams. He's got
+teams, he's got different forms, he's got development issues that can be raised via
+GitHub.
+Ben O'Hanlon: This is cool. So I thought I don't know whether we did this officially, but I
+love the idea of a lazy consensus. Like if no one objects, that's what we're doing, right?
+00:22:57
+Ben O'Hanlon: Um the two the second thing is here like the way that I think I approach
+this is if you think about the DREP collective as a community I need to go out and find
+and evangelize for creatives to come in. So we need Yeah, there's a path. So there's a
+path to funding. What I the first action item here for me, Matt, is probably scoping out a
+brief that I could share with somebody like this is, you know, and I think we're going to
+have to do this across multiple things, but in this case, what's the brief? Uh what's the
+opportunity? You know, why this? Why me? Why you? Why this? Why now? Right?
+Those four questions have to be answered. And then I can talk to creators, evangelize
+it, but also say like this is probably what it looks like.
+Dominick Garey: Eternal.
+Matthew Capps: Yeah, I was I was simultaneously taking notes in the wrong in the
+wrong box there. So, I'll I'll put that in the right one.
+00:26:07
+Dominick Garey: We'll see what we can do, buddy.
+Matthew Capps: Excellent. So that's a potential other partnership too, right? Disco um
+Yeah. Okay.
+Dominick Garey: We get any
+Matthew Capps: Nice. Nice. Great. So, so yeah, connect with Ben on that. Um, and
+Ben Ben
+Ben O'Hanlon: There
+Matthew Capps: can
+Ben O'Hanlon: is.
+Matthew Capps: give
+Ben O'Hanlon: So, someone pointed out one obvious thing. Um, and it's just dawning
+on me again. Okay. So, I'm coming to you. I'm saying there's an opportunity. I'm saying
+it's exciting. You're interested. Excellent. Okay. Um, the problem is we are if there's a
+promise of future funds, I am creating expectations around those. And sorry, I'm talking
+while I'm thinking here. And it's like, well, hang on. What what expectations specifically
+are we making? and committing because it's just like hey Dominic oh we'll work it out
+don't worry about it trust me bro just like whatever it's just trust
+00:27:29
+Dominick Garey: We
+Ben O'Hanlon: me
+Dominick Garey: got
+Ben O'Hanlon: bro
+Dominick Garey: it.
+Ben O'Hanlon: and then worst of all it's like I mean you know we've all had experience
+trying to build stuff and then you'll end up in a situation where maybe you promise
+somebody too much right you know so it's an interesting thing about like at some point
+we stack rank this stuff and say what's the most important thing in order of importance
+and urgency how important Is it is my question to the group. How important is it that we
+have some of those those answers? You know, I don't know. It's like we'd have to
+engage Intersect. We'd have to have the funding proposal. Maybe something to think
+about. What what what should I not be promising? Do you know what I'm saying? Like
+what should I not be committing as to?
+Dominick Garey: I don't know what we're thinking.
+Matthew Capps: Nice.
+Ratio: Yeah, I don't know if I can share my screen. I I'll try to. It's gonna It'll take away.
+00:29:36
+Ratio: I think it
+Kevin Mohr: That's
+Ratio: takes away Kevin's share.
+Kevin Mohr: that's fine with me. Um yeah, the two things that we like if if we're asking
+like what can we commit to what we need to know is like what can our developers do
+and then two like how we've set up the GitHub to facilitate all of this. want to go into
+development, I'm cool
+Ratio: Well, do
+Kevin Mohr: with that.
+Ratio: Yeah. All right. I'm just going to go to the GitHub. Um, and just go through
+everything that's pretty much on that slide. Um,
+Kevin Mohr: All right, I'm gonna stop sharing.
+Ratio: and I just have to figure out which tab to use. Anyway, I picked one. I don't know
+if it's right. So, bear with me. That's No. All right. I get to the Damn it.
+Newman Lanier: I'll
+Ratio: All
+Newman Lanier: jump
+Ratio: right.
+Newman Lanier: in with a little cheerleading while ratio gets It's going. I'm uh I'm really
+stoked to see all y'all. This is uh this is cool.
+00:30:55
+Newman Lanier: And to sort of uh be introduced to Ben. Ben, I've seen you around on
+the on the whatnot. And u so it's it's good to see some excitement around a a really cool
+project in my mind. Um uh as far as as
+Ben O'Hanlon: Thank
+Newman Lanier: far
+Ben O'Hanlon: you.
+Newman Lanier: as uh sense making and e ecosystem mapping, mapping is is
+certainly in my uh uh sphere of influence and um uh interest. Um I really like the uh the
+way you're running this with the work streams and uh it feels like feels like this is a
+there's a group of very mature uh uh decentralized workers here.
+Ben O'Hanlon: Did you uh this isn't for the call, but the crazy idea that the two three
+years out from today idea is an L2 where the nodes are people. And
+Newman Lanier: Yeah.
+Ben O'Hanlon: so all data is quantitative transactions what happened in the past but a
+human sensor network is about how people are feeling and the challenges. So it's
+actually future facing about probabilities. So that's the crazy idea is like an L2 I'm not not
+saying it'll happen but maybe you could tokenize it.
+00:32:11
+Ben O'Hanlon: Maybe the tokens are actual utility where you can spend them to do
+research with people within the ecosystem. network would be a mirror talk with you
+because the nodes are being picked on a specific trait which is their depth of integration
+in a role as opposed to say like an ambassador program where you're trying to get
+people to be marketing but they suck, you know, okay, sorry about you you telling me
+to? Yeah.
+Newman Lanier: Yeah. Yeah.
+Dominick Garey: keep them in line. Matthew
+Ratio: All right. Um, so if y'all haven't been here, this is the uh the DREApp Collectives
+GitHub account. Um, currently uh there's Dagwell, Alpine, myself, Kevin, and Kevin. Uh
+the second Kevin account is the DREP collective email account. So just letting y'all
+know everybody that's in the Discord server, that's all we have in the GitHub account.
+Um so we need more people in the GitHub account. A lot of stuff that was being
+discussed earlier can be handled here. First, we'll start with discussions. Discussions is
+a great way to interact with the community.
+00:33:41
+Ratio: I've already built this out to where uh you got your different sections. Um it's very
+similar to how Discord is set up with the you know with categories and channels except
+for here it's called sections and categories. Um so all the build teams are already built
+out and adding new teams or moving teams on here is is super easy. Uh general
+discourse feedback suggestions you know just general feedback suggestions. Um and
+here's what I did with the the three forms. I'm sticking here and then I'll go to the other
+things that were done in in GitHub.
+Newman Lanier: Up.
+Ratio: These are the three forms that were initially uh created by Kevin I believe on
+Google Docs or Google forms. So I recreated them here. Um this is the onboarding
+form. So you click the onboarding link, you click new discussion and then your form is
+here. And um anyway, so it asked for general identifying information, pseudonymous
+stuff, your date, you know, what team you want to be with, and then ask some general
+questions about if you're a DREP, you know, do you want more information, you know,
+give us some relevant experience and stuff.
+00:34:59
+Ratio: So, you know, without ask asking for a CV, you're just kind of asking for like
+basically the information that y'all just asked in a partnership. And then so this is
+probably a a a probably a good way to onboard people to use this form. Um and
+whenever they're done, whoever it is filling this out, all they do is hit start discussion. Uh
+after you hit start discussion, it'll post up just like this. It'll post here in discussions. Um,
+one thing I did not mention, I apologize, is here you'll see the labels. Um, so this is the
+coordination team and then uh uh build team on boarding. So there's the labels that and
+uh new labels can be created, additional labels can be created, labels can be deleted.
+Um, but these can be referenced later on and I'll get to that. Um so that's the first form
+that's the on boarding form and then you have the uh workstream report form. Same
+thing I did mine yesterday for this week. Uh you click on it again very similar format. If
+you want to drop a file in you know same you know just attach you hit the you know
+paper clip or you can drag and drop enter the text files and again you hit start
+discussion uh to post it.
+00:36:27
+Ratio: And the reason why it's here, reason why these are here is to kind of be uh you
+know transparent about what's going on. Um and then the last last form is the developer
+feedback form. Again, pretty much same layout. It's here. It's not permanent. Uh, you
+know, I told um told Kevin and and Matthew that I wanted uh uh Dagwell and Alpine to
+be the decider of uh where their where the developer feedback should be uh located.
+So, you got these three. Uh I'll go let me go back to uh the workstream report real quick
+and go to the one that I posted. And so if y'all aren't familiar with GitHub discussions, I
+mean it's pretty much a discussion. Uh and then you can add comments to it,
+suggestions, whatever. Uh discussion can be closed and I don't know maybe we come
+up with the decision that you know after two weeks if there's no movement on this
+particular uh uh feedback or this work stream form then we go ahead and close it. That
+way it locks out all future uh discussions.
+00:37:41
+Ratio: Um, all right. So, that's it for the three forms. I'm just going to ask anybody got
+any questions right now while we're here at the forums and the GitHub discussions. Um,
+Matthew Capps: No, this is great. I we do have uh I mentioned earlier in in my when I
+shared the call that like we have a whole bunch of different locations for some of these
+um for some of these things. I think it would be great to consolidate a lot of them if we
+can here into GitHub just because it's a nice um you know uh enduring format which is
+very open and transparent um and easy to manage. So um I I love what you've done
+here ratio. That's uh really nice.
+Dominick Garey: and it it reflects the work that Rachel's already done on it. So, we
+want to let that stand. Um, I love
+Matthew Capps: Yeah.
+Dominick Garey: that. Do you guys do you guys mind really
+Ratio: Hey,
+Dominick Garey: quick
+Ratio: hey,
+Dominick Garey: if before Ben goes if we can I think it's really important that we get
+current feedback about the work we're doing so that way we know you know like if we're
+going the right direction or
+00:38:45
+Matthew Capps: I think so. Yeah. Let's let's uh
+Kevin Mohr: Show.
+Ratio: let
+Matthew Capps: we've
+Kevin Mohr: Hold
+Matthew Capps: got some good
+Ratio: I'll
+Kevin Mohr: on, hold
+Ratio: make
+Kevin Mohr: on.
+Ratio: it I'll make this quick. All right.
+Dominick Garey: I'm Target.
+Ratio: So, I I won't go through everything on here. Um so anyway that's
+Kevin Mohr: Show.
+Ratio: the forums the forums and discussions and you have to be you have to have a
+GitHub account in order to uh discuss things to talk to post up. Uh that's the same thing
+on every other platform out there. Um to
+Kevin Mohr: Show
+Ratio: go back
+Kevin Mohr: them the teams, the teams part of it. Next
+Ratio: here's the uh here's the issues. This is the other area where if you want if you
+click new issue again I created three templates. So there's a workstream uh template.
+There's a uh there's an onboarding uh which is this ROS form. Probably needs a better
+name. And then you got developer feedback. And this is typically where developer
+feedback is at.
+00:39:36
+Ratio: In most organizations, it's under the issues uh section. So I leave that up to DAG
+well and Alpine. Y'all discuss it. Or if you already know which way you want to go, then
+go that way
+Dominick Garey: Yes,
+Ratio: uh
+Dominick Garey: sir.
+Ratio: and let me know. Um, and so we go, let's go back up real quick. Uh, here's the
+teams. I kind of made it. Uh, I created these teams that kind of mirror our teams except
+for there are right now there are three like uh main teams and underneath that um, you
+know, you have the admin whatever GitHub archiving is under the admin side. Um and
+then development you got the front end, the back end of metadata and the mapping and
+um so for outreach you have social media marketing and then partnerships. Um so
+those are teams I created and what you can actually do with that is under projects and
+this is a project board I created yesterday. You can actually come in and uh assign you
+can assign the teams. I don't think I've gotten to that part on here.
+00:40:52
+Ratio: Um, so and this is just a blank SIP amendment to SIP uh 119. Um, whenever you
+create a new item, um, I don't know what you want to call it. Letter head. So it'll it'll
+create it and then you can come in and change the status of it. Uh you can assign
+people to it and this is where you would um then when you had all that information as
+far as like stuff we need to do like that would go under like the backlog. It can be called
+something different but under the backlog and then you can just move them across. If
+y'all aren't familiar with them with the camb board, you can just move the item across as
+it's done. Um and within within the forms itself they're issues, right? So that's all they
+are. They just mirror the issues if the these are on the issue side and so you can uh
+respond to this, add comments, etc. Um,
+Matthew Capps: uh this is, you know, well, I think we'll focus a lot of attention on
+GitHub. So, like refocus on that, guys.
+00:42:19
+Matthew Capps: If you uh uh you know, make sure that you're you're uh you've got that
+link and if you don't already have a GitHub account, make sure you make one and jump
+in there. Um so, thank you, Vio, so much for for that. And I want to now because I know
+a lot of people have hard stops in about 10 minutes, uh get over to our final work
+streams. So, uh, I'm going to leave aside the marketing, um, and communications one
+for now, just because it's not as high priority. Um, and I think Dagwell, we go to you first
+and then, uh, Alpine probably if you guys are happy with that order.
+Dominick Garey: Yeah, we'll we'll if if you don't mind because we are short on time,
+we'll we can we'll co-load it. Um
+Matthew Capps: Sounds
+Dominick Garey: and and
+Matthew Capps: good.
+Dominick Garey: this Yeah. Alpine, sir, do you wanna um do you want to share
+because you on this one he a lot of it's visual. Um, so I just, um, if Alpine, if you want to
+jump on real quick.
+00:43:11
+Derrick Oatway: Do you want me to uh I'll just I have a web page for testing some
+endpoints for the sub68 stuff. Do you want me to just show that on?
+Dominick Garey: Yeah. And also, if you want to go through again, um, like really quick,
+just show the map. If you want to do it again, just like to show our current, um, I really
+like it. So, I mean, you know, and then we can just go to the endpoint to show the
+updates on it if you if you if that's okay with you, sir.
+Derrick Oatway: Uh yeah. Okay. This right page. So yeah, we have so with what we
+have now, we're generating a map based on some mock data that we put in, but we're
+going to let everybody we're going to start scraping this from the smart contract instead
+and make sure everything's still looking right. But yeah, so the way it's set up, you can
+click on a DRP and it's running on my local server right now, so it's kind of slow.
+00:44:27
+Derrick Oatway: You can click on a drep one of these nodes that are just they get
+injected from the metadata. It's trying to load and it just to we're trying to figure out what
+metadata we need, right? To get a sense. So just based on the metadata we generate
+all of this we have a kind of a just a local ecosystem map for that DRAP. We can throw
+in a delegate direct button and but all of this comes from the self-report system that
+we're putting in this. Yeah. So, it'll automatically it just looks up your DREP ID if you
+connect your wallet directs you to become a DREP or find DRS using this system or gov
+tools this points to. And yeah, it's just uh it has our extra extended fields which this
+should be this is I what I want people
+Ratio: No,
+Derrick Oatway: to
+Ratio: no.
+Derrick Oatway: really think about. I was talking to Ben a bit about it, but what are the
+extended fields, right? This is zip 119 right here. So what do we want it to like?
+00:45:40
+Derrick Oatway: We really got to dial this in because right now these generate the map
+that I showed ear before in the last page. But what like what really does this look like
+and how much do we want to handhold for the for the self-reporting and how much
+Yeah. And so that's one of the big things. And so we got a just to test the I kind of went
+like an IOHK inspired banner here.
+Ratio: Is
+Derrick Oatway: Um,
+Matthew Capps: Nice.
+Ratio: it possible, is it possible to change to a day or whatever that like the white
+background?
+Dominick Garey: Let me hit that real quick.
+Ratio: Please. Yeah. Thank
+Derrick Oatway: yep. So, yeah, we I don't even know if I tested this since I updated it.
+So, Dominic,
+Dominick Garey: Of
+Derrick Oatway: you can explain a bit what this is.
+Dominick Garey: course. So, right now it's interesting. I I have I have the server open.
+So, I see him hit that and I'm looking at it and it's it's awesome. Um, so currently what it
+does is and and and this part uh is specifically Alpine.
+00:46:43
+Dominick Garey: So, when you go to select the DR DREP, it'll automatically populate
+all of your 119. Um, so the original stuff that's there. So when he just hit that create right
+now, what he actually did was he made it a 721 that had all the 119 on it. Um and then
+on the datam he put the extended fields. So and that is right there. So those are the
+extended fields. Um yesterday what we did was uh we put some guardrails to make
+sure that uh you can only put one um the same person name so that way uh when you
+go to the datam doesn't have any confusions there. Um so it'll just check for that name.
+Um, and what we've done is you it it sends a payload, takes a name, scrapes a
+contract, looks at the uh looks at the contract. Let me see what's up with that.
+Derrick Oatway: It's just
+Dominick Garey: Oh,
+Derrick Oatway: I
+Dominick Garey: see.
+Derrick Oatway: just I
+Dominick Garey: Yes.
+Derrick Oatway: hit it And so just
+00:47:34
+Dominick Garey: So, so that's example of that. So, he tried he tried to put he tried to
+resubmit that and it's like, nope, that's already at the contract. Um, so right now we can
+we can change that data type for whatever we have it um we've have it written in the
+back end. So, it'll come through, take what it's needed to properly submit um uh to the
+backend transaction, also to properly filter the metadata and place it wherever we want.
+Um the way I kind of think about it is with Cardano metadata, you have three buckets
+pretty much. Um you have the uh 721, you've got the um inline datam, and you got the
+extra on inline datam that people don't utilize. Stupid. Um anyway, so you've got you
+have all those pockets which allow you to display information in ways that you want to.
+Um, so we have it, you know, I I I gave it my best call a try just to what we want to
+display. Oh, and the final thing, um, and I don't, we have an update as well.
+00:48:29
+Dominick Garey: Um, so the update request, what that'll do is it still populates the 119
+just to keep the API point kind of simple. Um, but what it does is, and it's so cool, I'm
+looking at it on the server. So it'll take that information and then it will resubmit that onto
+the datam. What I like about this is we take the same information. So on front you'll
+always have the extended fields but with the ability right now to rewrite I'm talking about
+we can do this right now um in the extra field what is your current opinion on a certain
+thing like hey I feel like this about the constitution cons so we can just have an we can
+have a field on the bottom where you go to self-report we can just put self-report uh
+personal or self-report issues or or a current issue um and they'll send that it'll update
+um their extended fields with an extra thing on the datam that shows their opinion. We
+could do it with a vote and then after that we already have we've already built the work
+just to go ahead scan the um to scan the contract and to for whatever field we want.
+00:49:31
+Dominick Garey: So we just we just scan it for the current opinion field. Pull it, pull it,
+post it. Someone should trademark that. That's good s***. Um so that's uh that's what
+we have there. And so we are we're going to update so you guys can have the so we
+can have the um uh wallet connect will send a user to that wallet so that way we'll check
+for the for that user um policy um before we allow them to update just some checks
+here. So we are and then next week we'll add a um we'll add a a gallery so everything
+so that way you can just see real time and what I'm going to do with that um I have we
+already actually have a wallet that we're sending all the user NFTts to. So the cool thing
+about this on our front end we can show the 721 which shows all of their original 119.
+Boom. and then on another button or another window we can show their uh their
+extended fields.
+00:50:30
+Dominick Garey: We can we can do whatever we want with it. We can put it wherever
+we want. Um but with this PC we've built the functionality to have the soul bound. We
+built the functionality of the smart contract to hold and update and we've also provided a
+mechanism to update with current events which allow the DREPs to be current and to
+give a fresh voice. Um, so we are getting to the place after we finish the gallery where
+you can see the credit and I'm sure they'll be talking there. We're getting really close to
+like, you know, this is like this is our PC. This is the functionality that we that we were
+talking about and here's demonstration of it. Um, we know there's going to be tweaks
+and stuff like that, but what we wanted to do is hit you with a hard hit you with a hard
+PC, let you play with it, come back with us, we'll update, but this way we have
+something to point to like, oh, wait, no, you can do it.
+00:51:20
+Dominick Garey: You can actually mint it on test net right now. You can update
+functionality and you can do that. So, obviously, we'll get the gallery, but we've been
+cooking and we're about ready for people to start eating, of course.
+Matthew Capps: But after that we'll jump to
+Dominick Garey: Yeah.
+Derrick Oatway: Yeah,
+Matthew Capps: your question.
+Derrick Oatway: I think really diving into what the metadata should be, what are the
+extended fields and how much handholding is there. That's my like for me that's that's
+what I'm wondering, right? Like what what does that form look like for the self-reporting
+and
+Matthew Capps: So maybe we should get some uh some dreps in there to or
+delegators like look at it and test it out and see what they think.
+Derrick Oatway: Yeah. Well, like yeah, we'll get it we'll get it pushed up and a few
+guard rails in and then yeah, we'll
+Dominick Garey: Yeah.
+Derrick Oatway: we'll find out the experience.
+Dominick Garey: And and right now there there and just to know there's a little bit of a
+gap because theoretically you signing with your wallet.
+00:52:24
+Dominick Garey: Alpine he's already written a program where it'll take your wallet script
+the 119 pre-populate your form. So that way you're just you're throwing that on your soul
+bound. So that's there. But right now, uh, we've got workarounds. Come on, this is
+Cardono. But we're on test net, you know what I mean? So, we will not show the the
+actual soulbound where it connects to DREP. It'll populate the address and then we'll
+make sure that address that you're logging in with is the same from 119. So, that'll be
+our security check there. And we'll we got some more validation in the background.
+We're going to use all all the uh the lovely tools of Cardono that we've spent so long
+familiarizing oursel with. Um but yeah, so just a little things like that on the update, but
+Matthew Capps: people into that and uh we've got to I I've got a drop also in like one
+minute here but ratio any final words
+Ratio: Now, I just need a coordinate with the Alpine and well again about the front end
+repo. And
+Matthew Capps: all right sounds
+Ratio: we can do that
+Matthew Capps: good
+Ratio: in discord, I guess.
+Matthew Capps: yeah so you guys can connect but that thanks guys uh I'll be posting
+the after call post after this so uh watch out for that and otherwise we'll see you async
+and next
+Ben O'Hanlon: Will it be native
+Ratio: Hey,
+Ben O'Hanlon: video in the
+Ratio: Matt.
+Ben O'Hanlon: telephone?
+Matthew Capps: See you guys.
+Ben O'Hanlon: Okay.
+Dominick Garey: okay, then
+Ratio: I need. I need minutes minutes and video links.
+Matthew Capps: Minutes will do.
+Ratio: Thank
+Matthew Capps: So
+Ratio: you.
+Matthew Capps: let's get ratio. See you guys.
+Dominick Garey: Let us.
+Kevin Mohr: Me too me too.
+Dominick Garey: Yes, sir.
+Kevin Mohr: All right. Bye-bye.
+Newman Lanier: But thanks, Ciao.
+Transcription ended after 00:54:07
+This editable transcript was computer generated and might contain errors. People can
+also change the text after it was created.
