@@ -13,7 +13,7 @@
 
 - [CIP-119](https://github.com/cardano-foundation/CIPs/tree/master/CIP-0119)
 - [CIP-108](https://github.com/cardano-foundation/CIPs/tree/master/CIP-0108)
-- [CIP-100's](https://github.com/cardano-foundation/CIPs/tree/master/CIP-0100)
+- [CIP-100](https://github.com/cardano-foundation/CIPs/tree/master/CIP-0100)
 
 ---
 
