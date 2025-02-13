@@ -18,7 +18,7 @@ We continue to push for an informed international community and encourage all DR
 
 ---
 
-## FEEDBACK & FORMS
+## FEEDBACK & WORKSTREAMS
 
 #### Developer Feedback
 - via [GitHub Discussions](https://github.com/orgs/DRep-Collective/discussions/categories/developer_feedback)
@@ -26,7 +26,6 @@ We continue to push for an informed international community and encourage all DR
 
 #### Workstream Updates
 - via [GitHub Discussions](https://github.com/orgs/DRep-Collective/discussions/categories/workstream_report)
-- via [GitHub Issues](https://github.com/DRep-Collective/Landing/issues/new?template=workstream-weekly-report-form.md) - click `Create`
 
 ---
 
