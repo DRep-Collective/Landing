@@ -45,7 +45,7 @@ We continue to push for an informed international community and encourage all DR
 ## DOCUMENTS, POLICIES & RESOURCES
 - [Documents Index](https://github.com/DRep-Collective/Landing/blob/main/docs/index.md)
 - [Policies & Guidelines](https://github.com/DRep-Collective/Landing/blob/main/docs/organization/index.md)
-- [Resources](https://github.com/DRep-Collective/landing/blob/main/resources/)
+- [Resources](https://github.com/DRep-Collective/Landing/blob/main/resources/index.md)
 
 ---
 
