@@ -12,7 +12,7 @@
 - [Original - aka Placeholder](https://github.com/DRep-Collective/Landing/blob/main/docs/iconography/drep-collective-logo.png)
 - [Rough Ideation #1 - Red Tone](https://github.com/DRep-Collective/Landing/blob/main/docs/iconography/drep-collective-logo_2.png)
 - [Rough Ideation #2 - Black Tone](https://github.com/DRep-Collective/Landing/blob/main/docs/iconography/drep-collective-logo_3.png)
-- [Choice #1]()
+- [Choice #1](https://github.com/DRep-Collective/Landing/blob/main/docs/iconography/drep-collective-logo-211-62-67.png)
 
 ## DISCUSSIONS
 - None yet
