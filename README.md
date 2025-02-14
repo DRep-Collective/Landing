@@ -42,23 +42,16 @@ We continue to push for an informed international community and encourage all DR
 
 ---
 
-## RESOURCES & DOCUMENTS
-- [Meeting Minutes](https://github.com/DRep-Collective/Landing/blob/main/docs/meeting-minutes/index.md) • [Slides](https://github.com/DRep-Collective/Landing/tree/main/docs/meeting-minutes/slides)
-- [All Things DRep](https://github.com/DRep-Collective/landing/blob/main/resources/all-things-drep.md)
-- [All Documents](https://github.com/DRep-Collective/Landing/blob/main/docs/index.md)
+## DOCUMENTS, POLICIES & RESOURCES
+- [Documents Index](https://github.com/DRep-Collective/Landing/blob/main/docs/meeting-minutes/index.md)
+- [Policies & Guidelines]()
+- [Resources](https://github.com/DRep-Collective/landing/blob/main/resources/)
 
 ---
 
 ## INITIATIVES
 - [CIP-119 Extension](https://drep-eco.vercel.app/cip148) • fka CIP-148 • proposed
 - [DRep Ecosystem Map](https://drep-eco.vercel.app/) • Proof Of Concept
-
----
-
-## POLICIES & GUIDELINES
-- [Code of Conduct](coming soon]
-- [Mission Statement](coming soon)
-- [Ethics Statement](coming soon)
 
 ---
 
