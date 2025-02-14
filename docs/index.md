@@ -16,7 +16,9 @@
    - Mission Statement - [PDF](add link) - [markdown](add link)
 
 5. [Projects](https://github.com/DRep-Collective/Landing/edit/main/docs/docs/projects/)
+   - intended to be the central location for project docs unti l they get there own repos (if needed)
    - [Metadata](https://github.com/DRep-Collective/Landing/blob/main/docs/projects/metadata/working-metadata-sheet.md)
 
-6. [Dump](https://github.com/DRep-Collective/Landing/tree/main/docs/dump)
+7. [Dump](https://github.com/DRep-Collective/Landing/tree/main/docs/dump)
+   - follow the instructions below and upload docs that need organizing further up the index
    - [Instructions](https://github.com/DRep-Collective/Landing/tree/main/docs/dump/instructions.md)
