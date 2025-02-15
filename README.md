@@ -52,7 +52,7 @@ We continue to push for an informed international community and encourage all DR
 ---
 
 ## INITIATIVES
-- [CIP-119 Extension](https://drep-eco.vercel.app/cip148) • fka CIP-148 • proposed
+- [CIP-148 - Proposed](https://drep-eco.vercel.app/cip148) • intentionally not an extention of CIP-119
 - [DRep Ecosystem Map](https://drep-eco.vercel.app/) • Proof Of Concept
 
 ---
