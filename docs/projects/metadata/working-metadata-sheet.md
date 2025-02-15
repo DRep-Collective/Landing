@@ -1,11 +1,11 @@
-# METADATA, CIPs AND [PROPOSED AMENDMENT]()
+# METADATA AND CIPs
 - This document is more for reference. Putting relevant links in one location.
 - Formal metadata design based on information [here](https://schema.org/)
 
 ---
 
 ## PROPOSAL
-- [CIP-119 Amendment (internal name CIP-148)](https://drep-eco.vercel.app/cip148)
+- [CIP-148: Ecosystem-Based DRep Metadata Extension)](https://drep-eco.vercel.app/cip148)
 
 ---
 
@@ -18,7 +18,7 @@
 ---
 
 ## METADATA LISTS
-#### [Proposed CIP-119 Amendment](https://drep-eco.vercel.app/cip148)
+#### [CIP-148: Ecosystem-Based DRep Metadata Extension](https://drep-eco.vercel.app/cip148)
 - `areasOfInterest`
 - `ecosystemRoles`
 - `endorsements`
