@@ -4,6 +4,7 @@
   - references and
   - newly created referecne materials
   - ideations
+ 
 ##### REFERENCE LINKS:
 - [Learn UML-2](https://github.com/imalitavakoli/learn-uml2)
 
@@ -19,9 +20,13 @@
   - 
 - GDPR, other laws; what determines laws, server location or user location?
   - where to host out of?
-  - 
+- Smart Contract pays for Tx <-- put info somewhere else
+
 
 ## Needed
+### For Broad Use:
+- translation tool
+
 ### Classes:
 #### `Delegates`
 
@@ -34,6 +39,7 @@
   - dynamic -> `organization` (optional) : `String`
 - Actions:
   - `createProfile`
+  - `registerAsDrep`
   - `search`
     - Filter by:
       - `Lang`
@@ -46,8 +52,7 @@
         - any sub-field (i.e. Organization, Y/N Vote-Percentage)
         - combination with priority set
     - `print to file` search results -> text tree
-    - `min/max results`
-       
+    - `min/max results` for search return
 #### `DReps`
 - Attributes:
   - static -> `drepID` :  `DrepID`
@@ -59,8 +64,13 @@
   - dynamic -> `endorsments` : `Endorsement` -> `Reference`
   - dynamic -> `ecosystemRoles` : `Role`
   - dynamic -> `activityMap` : `Activity`
+- - Actions:
+  - `createDrepProfile`
+  - `modifyDrepProfile`
+  - `deregister`
+  - 
 #### Generic User
-
+- Attributes
 
 
 
