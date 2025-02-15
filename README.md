@@ -10,6 +10,7 @@ We continue to push for an informed international community and encourage all DR
 ---
 ## JOIN THE CORE BUILD TEAM
 - via [GitHub Discussions](https://github.com/orgs/DRep-Collective/discussions/categories/workstream_onboarding)
+   - select `New Discussion`, fill in the data, click `Start Discussion`
  
 ---
 
