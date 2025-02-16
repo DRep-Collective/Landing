@@ -64,7 +64,7 @@
   - dynamic -> `endorsments` : `Endorsement` -> `Reference`
   - dynamic -> `ecosystemRoles` : `Role`
   - dynamic -> `activityMap` : `Activity`
-- - Actions:
+- Actions:
   - `createDrepProfile`
   - `modifyDrepProfile`
   - `deregister`
