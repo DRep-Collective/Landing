@@ -43,7 +43,7 @@ We continue to push for an informed international community and encourage all DR
 - [TheDrepCollective](mailto:thedrepcollective@gmail.com)
 
 #### Platform Links
-- [Discord](https://discord.gg/VHzZCBxNDm) • [GitHub](https://github.com/DRep-Collective) • [Telegram](https://t.me/+Y1HJLBoLK-UyNDc5) • [LinkedIn](https://www.linkedin.com/company/the-drep-collective/) • [Facebook](https://www.facebook.com/profile.php?id=61572466194346) • [WhatsApp](https://chat.whatsapp.com/KZVsqc3GrLhIkkyMX6KKYR) • [DRep Forum](https://linktr.ee/drepforum)
+- [Discord](https://discord.gg/VHzZCBxNDm) • [GitHub](https://github.com/DRep-Collective) • [Telegram](https://t.me/+Y1HJLBoLK-UyNDc5) • [LinkedIn](https://www.linkedin.com/company/the-drep-collective/) • [Facebook](https://www.facebook.com/profile.php?id=61572466194346) • [WhatsApp](https://chat.whatsapp.com/KZVsqc3GrLhIkkyMX6KKYR) • [DRep Forum](https://linktr.ee/drepforum) • [Youtube](https://www.youtube.com/@TheDRepCollective)
 
 ---
 
