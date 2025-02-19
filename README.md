@@ -8,10 +8,14 @@ The DRep Collective is a community initiative created to provide greater visibil
 We continue to push for an informed international community and encourage all DReps to join the intitiative and, by extension, increasing the overall governance participation rate.
 
 ---
-## JOIN THE CORE BUILD TEAM
-- via [GitHub Discussions](https://github.com/orgs/DRep-Collective/discussions/categories/workstream_onboarding)
-   - select `New Discussion`, fill in the data, click `Start Discussion`
+
+## JOIN US
+- [Official Meeting Link](https://meet.jit.si/Drep-Collective)
+   - Check [Discord](https://discord.gg/VHzZCBxNDm) Events for meetup times
  
+- [Be Part Of The Build Team](https://github.com/orgs/DRep-Collective/discussions/categories/workstream_onboarding)
+   - Select `New Discussion`, fill in the data, click `Start Discussion`
+
 ---
 
 ## HOURS OF AVAILABILITY
