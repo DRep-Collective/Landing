@@ -12,7 +12,7 @@
 
 ## DIRECTIONS
 - You are [here](https://github.com/DRep-Collective/Landing/edit/main/docs/dump/INSTRUCTIONS.md)
-- At the top of the window click [`dumop`](https://github.com/DRep-Collective/Landing/tree/main/docs/dump)
+- At the top of the window click [`dump`](https://github.com/DRep-Collective/Landing/tree/main/docs/dump)
 - Click **`Add file`**, upper-right of window
 - Select `Upload files`
 - Drag and drop your file(s) into the window
