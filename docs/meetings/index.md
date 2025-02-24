@@ -10,7 +10,7 @@
 
 - 15 Jan 2025 - [minutes](https://github.com/DRep-Collective/Landing/blob/main/docs/meeting-minutes/meeting-minutes-15-jan-2025.md) - [slides - PDF](https://github.com/DRep-Collective/Landing/blob/main/docs/meeting-minutes/slides/meeting-2-drep-collective-slides.pdf) - [slides - LINK](https://docs.google.com/presentation/d/1q6FP7HHiwQPoPBvIdxG7s5UoFDfBTuHY6_h2Knwu4-E/edit?usp=sharing) - [video](https://x.com/i/status/1880296609793081854)
 
-- 22 Jan 2025 - [minutes](https://github.com/DRep-Collective/Landing/blob/main/docs/meeting-minutes/meeting-minutes-22-jan-2025.md) - `slides - NONE` - [video](https://youtu.be/xkdYsPNOkdg?si=J98kGxtY-41jXle4)
+- 22 Jan 2025 - [minutes](https://github.com/DRep-Collective/Landing/blob/main/docs/meeting-minutes/meeting-minutes-22-jan-2025.md) - `NO SLIDES` - [video](https://youtu.be/xkdYsPNOkdg?si=J98kGxtY-41jXle4)
   
 - 29 Jan 2025 - [minutes](https://github.com/DRep-Collective/Landing/blob/main/docs/meetings/minutes/meeting-minutes-29-jan-2025.md) - [slides - PDF](https://github.com/DRep-Collective/Landing/blob/main/docs/meeting-minutes/slides/meeting-4-drep-collective-slides.pdf) - [slides - LINK](https://docs.google.com/presentation/d/1qvaif4vaSnOJ1YmzGmjyoV_Fsj6jgR_pNxUKCQEhckM/edit?usp=sharing) - [video](https://t.co/1biejbaell)
 
