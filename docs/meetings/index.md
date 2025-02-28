@@ -20,4 +20,4 @@
 
 - 19 Feb 2025 - `minutes` - `minutes - PDF` - [slides - PDF](https://github.com/DRep-Collective/Landing/blob/main/docs/meetings/slides/meeting-7-drep-collective-slides.pdf) - [video - temp](https://www.youtube.com/live/We9t1khns8I) - `transcript`
 
-- 26 Feb 2025 - [summary](https://github.com/DRep-Collective/Landing/blob/main/docs/meetings/summaries/26-feb-2025.md) - `minutes` - `minutes - PDF` - [slides - PDF](https://github.com/DRep-Collective/Landing/blob/main/docs/meetings/slides/meeting-8-drep-collective-slides.pdf)
+- 26 Feb 2025 - [summary](https://github.com/DRep-Collective/Landing/blob/main/docs/meetings/summaries/26-feb-2025.md) - `minutes` - `minutes - PDF` - [slides - PDF](https://github.com/DRep-Collective/Landing/blob/main/docs/meetings/slides/meeting-8-drep-collective-slides.pdf) - [video](https://www.youtube.com/watch?v=0RD-cg0L5No)
