@@ -16,9 +16,10 @@
    - Ethics Statement - [PDF](add link) - [markdown](add link)
    - Mission Statement - [PDF](add link) - [markdown](add link)
 
-6. [Projects](https://github.com/DRep-Collective/Landing/edit/main/docs/docs/projects/)
+6. [Projects](https://github.com/DRep-Collective/Landing/blob/main/docs/projects/index.md)
    - intended to be the central location for project docs unti l they get there own repos (if needed)
    - [Metadata](https://github.com/DRep-Collective/Landing/blob/main/docs/projects/metadata/working-metadata-sheet.md)
+   - [DRep Mapping Project](https://dev-drep.vercel.app/)
 
 7. [Dump](https://github.com/DRep-Collective/Landing/tree/main/docs/dump)
    - follow the instructions below and upload docs that need organizing further up the index
