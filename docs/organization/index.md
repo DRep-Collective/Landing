@@ -1,9 +1,11 @@
 # ORGANIZATIONAL DOCUMENTS AND POLICIES
-#### NO DOCS YET
 
+## Business Plan
+- [Draft #1](https://github.com/DRep-Collective/Landing/blob/main/docs/organization/business-plan/bp-draft-1.md)
 ## Mission Statement
-- [issue submitted](https://github.com/DRep-Collective/Landing/issues/9)
+- [NOT YET submitted](https://github.com/DRep-Collective/Landing/issues/9)
 ## Ethics Statement
-- [issue submitted](https://github.com/DRep-Collective/Landing/issues/10)
+- [NOT YET submitted](https://github.com/DRep-Collective/Landing/issues/10)
 ## Code of Conduct
-- [issue submitted](https://github.com/DRep-Collective/Landing/issues/11)
+- [NOT YET submitted](https://github.com/DRep-Collective/Landing/issues/11)
+
