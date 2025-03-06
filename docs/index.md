@@ -2,7 +2,7 @@
 
 ---
 1. [Meetings](https://github.com/DRep-Collective/Landing/blob/main/docs/meetings/index.md)
-    - here you will find all documents related to any meetings
+    - minutes, videos, summaries, slides
 
 2. [Fonts & Colorways](https://github.com/DRep-Collective/Landing/tree/main/docs/fonts-colors)
    - notes, requirements and info about colors chosen to represent the DRep Collective
