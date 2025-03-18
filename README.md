@@ -56,10 +56,10 @@ We continue to push for an informed international community and encourage all DR
 ---
 
 ## INITIATIVES
-- [CIP-148: Ecosystem-Based DRep Metadata Extension](https://dev-drep.vercel.app/CIP-0148) • [md File](https://github.com/DRep-Collective/Landing/blob/main/docs/projects/metadata/draft-cip-0148-11-mar-2025.md)
+- [CIP-148: Ecosystem-Based DRep Metadata Extension](https://preview-drep.vercel.app/CIP-0148) • [md File](https://github.com/DRep-Collective/Landing/blob/main/docs/projects/metadata/draft-cip-0148-11-mar-2025.md)
    - `PROPOSED`
    - `NOT` an extension of CIP-119
-- [DRep Ecosystem Map](https://drep-eco.vercel.app/)
+- [DRep Ecosystem Map](https://preview-drep.vercel.app/)
    - `Proof Of Concept`
 
 ---
