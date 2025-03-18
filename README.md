@@ -19,7 +19,7 @@ We continue to push for an informed international community and encourage all DR
 ---
 
 ## HOURS OF AVAILABILITY
-- Disregard the dates provided. Share your [general weekly availability](https://www.when2meet.com/?28975121-mDUGF). This link is very public. Password is not necessary but keeps others from changing your hours.
+- Disregard the dates provided. Share your [general weekly availability - NEW LINK COMING](). This link is very public. Password is not necessary but keeps others from changing your hours.
 
 ---
 
