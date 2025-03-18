@@ -15,9 +15,10 @@ License: CC-BY-4.0
 ---
 --->
 
-# On-Chain DRep Credential & Extended Governance NFTs <br> CIP-0148
+# On-Chain DRep Credential & Extended Governance NFTs <br> CIP-0152
+- `CIP Pull Request #1007` - [here](https://github.com/cardano-foundation/CIPs/pull/1007)
 ###### see raw data data commented out of web-version
-
+###### updated: 18 Mar 2025
 ---
 
 ## Table of Contents
