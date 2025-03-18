@@ -5,7 +5,9 @@
 ---
 
 ## PROPOSAL
-- [CIP-148: Ecosystem-Based DRep Metadata Extension)](https://drep-eco.vercel.app/cip148)
+- [CIP-152: Ecosystem-Based DRep Metadata Extension)](https://preview-drep.vercel.app/CIP-0148)
+  - `CIP Pull Request #1007` - [here](https://github.com/cardano-foundation/CIPs/pull/1007)
+
 
 ---
 
