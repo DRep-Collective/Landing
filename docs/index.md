@@ -18,7 +18,7 @@
 
 6. [Projects](https://github.com/DRep-Collective/Landing/blob/main/docs/projects/index.md)
    - intended to be the central location for project docs unti l they get there own repos (if needed)
-   - [CIP-0152: Metadata Extension](https://github.com/DRep-Collective/Landing/blob/main/docs/projects/metadata/draft-cip-0148-11-mar-2025.md)
+   - [CIP-0152: Metadata Extension](https://github.com/DRep-Collective/Landing/blob/main/docs/projects/metadata/draft-cip-0152-11-mar-2025.md)
    - [DRep Mapping Project](https://dev-drep.vercel.app/)
 
 7. [Dump](https://github.com/DRep-Collective/Landing/tree/main/docs/dump)
