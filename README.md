@@ -56,7 +56,7 @@ We continue to push for an informed international community and encourage all DR
 ---
 
 ## INITIATIVES
-- [CIP-0152: Ecosystem-Based DRep Metadata Extension](https://preview-drep.vercel.app/CIP-0152) • [md File](https://github.com/DRep-Collective/Landing/blob/main/docs/projects/metadata/draft-cip-0152-11-mar-2025.md)
+- [On-Chain DRep Credential & Extended Governance NFTs](https://github.com/Alpine-Oracle/CIPs/tree/CIP-0152/CIP-DRep-Credential) • [md File](https://github.com/DRep-Collective/Landing/blob/main/docs/projects/metadata/draft-cip-28-mar-2025.md)
    - `CIP Pull Request #1007` - [here](https://github.com/cardano-foundation/CIPs/pull/1007)
 - [DRep Ecosystem Map](https://preview-drep.vercel.app/)
    - `Proof Of Concept`
