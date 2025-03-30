@@ -1,4 +1,4 @@
-# Proposal Submission Form
+# Intersect Proposal Submission Form
 
 This form is open to any individual or organization within the Cardano ecosystem that wishes to submit a proposal related to the Cardano blockchain ecosystem for inclusion in a Cardano Budget facilitated by Intersect.
 
