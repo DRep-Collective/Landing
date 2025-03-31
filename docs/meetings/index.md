@@ -5,7 +5,6 @@
 - [Please use this template for any slides](https://docs.google.com/presentation/d/1-ByajGXyN_QzoksFHIXdllos5m0MdMlx_ZhnRB5eQ4k/edit#slide=id.g325b0a0f96e_0_0)
 
 ## Meetings
-###### ❗ NOTE: Summaries began with meeting #8 on 26 Feb 2025 ❗
 1. 07 Jan 2025 - [minutes](https://github.com/DRep-Collective/Landing/blob/main/docs/meeting-minutes/meeting-minutes-07-jan-2025.md) - [slides - PDF](https://github.com/DRep-Collective/Landing/blob/main/docs/meeting-minutes/slides/meeting-1-drep-collective-slides.pdf) - [slides - LINK](https://docs.google.com/presentation/d/1CnOp8YuRcap6XmMBRiw2YzjhjuqS7S4WVlLB71CPbxo/edit?usp=sharing) - `video`
 
 2. 15 Jan 2025 - [minutes](https://github.com/DRep-Collective/Landing/blob/main/docs/meeting-minutes/meeting-minutes-15-jan-2025.md) - [slides - PDF](https://github.com/DRep-Collective/Landing/blob/main/docs/meeting-minutes/slides/meeting-2-drep-collective-slides.pdf) - [slides - LINK](https://docs.google.com/presentation/d/1q6FP7HHiwQPoPBvIdxG7s5UoFDfBTuHY6_h2Knwu4-E/edit?usp=sharing) - [video](https://x.com/i/status/1880296609793081854)
