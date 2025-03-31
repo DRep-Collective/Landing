@@ -24,4 +24,4 @@
 
 9. 05 Mar 2025 - `summary` - **`for minutes please see slides`** - [slides - PDF](https://github.com/DRep-Collective/Landing/blob/main/docs/meetings/slides/meeting-9-drep-collective-slides.pdf) - [slides](https://docs.google.com/presentation/d/18lMUrXJf0PQ12S4Qo6b4fioBaf7jqlw08Np1Hhe3QVc/edit#slide=id.g330853f92a3_0_0) - `video`
 
-10. 26 Mar 2025 - `summary` - [slides - PDF]() - [slides]() - `video` 
+10. 26 Mar 2025 - `summary` - [slides - PDF](https://github.com/DRep-Collective/Landing/blob/main/docs/meetings/slides/meeting-10-drep-collective-slides.pdf) - `slides` - `video` 
