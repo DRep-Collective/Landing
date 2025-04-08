@@ -123,12 +123,12 @@ This project will allow community members from across the ecosystem and world to
 #### Does this proposal align to the Product Roadmap and Roadmap Goals?*
 Please click [`here`](https://productcommittee.docs.intersectmbo.org/committee-outcomes/2025-cardanos-roadmap/2025-proposed-cardano-roadmap#scaling-the-l1-engine) to see details of the Product Roadmap.
 ```
-It supports the product roadmap.
+It supports the product roadmap. 
 ```
 
 #### Please explain how your proposal supports [above selection].*
 ```
-Our proposal is a governance tool that helps DReps and delegates coordinate, communicate and share knowledge. It allows the delegate to filter through all self-reporting DReps in order to narrow down their respective DRep field to find a matching or near-matching candidate providing them with a starting point to liquid democracy on Cardano.
+Our proposal is a governance tool that helps DReps and delegates coordinate, communicate and share knowledge. It allows the delegate to filter through all self-reporting DReps in order to narrow down their respective DRep field to find a matching or near-matching candidate providing them with a starting point to liquid democracy on Cardano. It uses a simple modular design supported by the proposed CIP-1007. It optimizes the performance of the blockchain by helping create a database for anyone to use. It uses a two credential method of verification to make sure the data is accurate and stays soul-bounded to the user of whatever credential may be implemented. This is a novel use case that builds on previous CIP's. Hardly any research needs to be done at this time. More social research irrelevant to this proposal will need to be done after the implementation of the DRep collective.
 ```
 
 #### Does your proposal align to any of the categories listed below?*
@@ -170,46 +170,72 @@ With the creation, passing and ratification of the Cardano Constitution the comm
 
 #### Dependencies: Please list any key dependencies (if any) for this proposal? These can be internal or external to the proposal.*
 What else needs to be done for this proposal to begin or be completed.
-- enter text
+- CIP-1007 Ratification
 
 #### Maintenance: How will this proposal be maintained and supported after initial development?*
-- enter text
+- It will be maintained using continual treasury withdrawls from our internal treasury. If more needs to be done to maintain the project, we will submit a treasury withdrawl. This project should be self sufficent once funded for at least one year.
 
 #### Key Proposal Deliverable(s) and Definition of Done: What tangible milestones or outcomes are to be delivered and what will the community ultimately receive?**
 Keeping in mind sometimes proposals are multi-phased, what would be the target state of this tranche of the proposal or body of work.
-- enter text
+- 1. We will publish the CIP
+  2. We will connect the website to mainnet and offically publish it.
+  3. We will onboard users into the collective.
+  4. The collective will grow with more community participation.
+ 
+     Ultimately the community will receive a union/dao like strucutre that maps the entire ecosystem and provides benefits such as financial support and legal aid to DRep users. It will also be a place of open source research into governance.
 
 #### Resourcing & Duration Estimates: Please provide estimates of team size and duration to achieve the Key Proposal Deliverables outlined above.*
 If not known estimates can be provided.
-- enter text
+- 10 memeber team. (2 Marketing, 1 Github, 2 Developers, 2 Social Media, 1 consultant)
+- 1. Publish CIP (2 Months/July 2025) - 40,000 ADA for each developer. (2x Developers) (80,000 Total)
+  2. Publish website (1 Month/August 2025) - 80,000 ADA for each developer. (2x Developers) (160,000 Total)
+                        Github Maintenance - 20,000 ADA
+  3. Onboard Users - Social Media Marketing (September/October/November 2025) - 20,000 ADA
+  4. Grow with community participation (December 2025 onward) - 250,000 ADA for the Treasury (Legal Aid/DRep   Incentives/Payments to DReps).
 
 #### Experience: Please provide previous experience relevant to complete this project.*
-- enter text
+- Disco Solaris
+- Malama Project
+- News and Media Publishing
+- Collective 20+ years of government work
+- Consultations by IOG
 
 #### Contracting: Please describe how you expect to be contracted.*
-- drop-down selection
+- U.S. Standard Form Contract
 
 #### Costing: Please provide requested cost of this proposal in:
 ##### Preferred Currency*
-- drop-down selection
+- 530,000 ADA
 
 ##### Amount in preferred currency*
-- enter text
+- 530,000 ADA
 
 ##### USD ($) Amount*
-- enter text
+- 265,000
 
 ##### USD to Preferred Currency Conversion Rate*
-- entere text
+- 1:1
 
 ##### ADA Amount*
-- enter text
+- 530,000 ADA
 
 ##### USD to ADA Conversion Rate*
-- enter text
+- 1:0.5
 
 #### Cost breakdown: Based on your preferred contract type and cost estimate, please provide a cost breakdown in ada and in USD.*
-- enter text
+- - 10 memeber team. (2 Marketing, 1 Github, 2 Developers, 2 Social Media, 1 consultant)
+- 1. Publish CIP (2 Months/July 2025) - 40,000 ADA for each developer. (2x Developers) (80,000 Total)
+  2. Publish website (1 Month/August 2025) - 80,000 ADA for each developer. (2x Developers) (160,000 Total)
+                        Github Maintenance - 20,000 ADA
+  3. Onboard Users - Social Media Marketing (September/October/November 2025) - 20,000 ADA
+  4. Grow with community participation (December 2025 onward) - 250,000 ADA for the Treasury (Legal Aid/DRep   Incentives/Payments to DReps).
+
+ IN USD:
+     1. 40,000 USD
+     2. 80,000 USD + 10,000 USD
+     3. 10,000 USD
+     4. 125,000 USD
+
 
 ---
 
@@ -233,10 +259,10 @@ Intersect's role as an administrator, through our committees and internal operat
 - Technical and Financial auditing
 
 #### Would you like Intersect to be your named Administrator, including acting as the auditor, as per the Cardano Constitution?*
-- yes/no
+- yes
 
 #### Confidentiality: Is there any reason why your proposal should be kept confidential?*
-- yes/no
+- no
 
 ---
 
