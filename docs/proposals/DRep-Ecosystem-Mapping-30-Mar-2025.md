@@ -101,10 +101,10 @@ Beneficiary listed above
 #### What social handles would you like to be used? E.g. Github, X*
 ```
 X: @My__X__Account
-Discord: https://discord.gg/VHzZCBxNDm Username: .kevinm.
+Discord:  https://discord.gg/VHzZCBxNDm Username: .kevinm.
 Telegram: https://t.me/+Y1HJLBoLK-UyNDc5
-Facebook: https://t.me/+Y1HJLBoLK-UyNDc5
-Youtube: https://www.youtube.com/@TheDRepCollective
+Facebook: https://www.facebook.com/profile.php?id=61572466194346
+Youtube:  https://www.youtube.com/@TheDRepCollective
 ```
 ---
 
