@@ -224,14 +224,14 @@ If not known estimates can be provided.
 
 #### Cost breakdown: Based on your preferred contract type and cost estimate, please provide a cost breakdown in ada and in USD.*
 - - 10 memeber team. (2 Marketing, 1 Github, 2 Developers, 2 Social Media, 1 consultant)
-- 1. Publish CIP (2 Months/July 2025) - 40,000 ADA for each developer. (2x Developers) (80,000 Total)
+- 1. Publish CIP (2 Months/July 2025) - 80,000 ADA for each developer. (2x Developers) (160,000 Total)
   2. Publish website (1 Month/August 2025) - 80,000 ADA for each developer. (2x Developers) (160,000 Total)
                         Github Maintenance - 20,000 ADA
   3. Onboard Users - Social Media Marketing (September/October/November 2025) - 20,000 ADA
   4. Grow with community participation (December 2025 onward) - 250,000 ADA for the Treasury (Legal Aid/DRep   Incentives/Payments to DReps).
 
  IN USD:
-     1. 40,000 USD
+     1. 80,000 USD
      2. 80,000 USD + 10,000 USD
      3. 10,000 USD
      4. 125,000 USD
