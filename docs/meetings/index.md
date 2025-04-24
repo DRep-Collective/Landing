@@ -25,10 +25,10 @@
 
 10. 26 Mar 2025 - `summary` - [slides - PDF](https://github.com/DRep-Collective/Landing/blob/main/docs/meetings/slides/meeting-10-drep-collective-slides.pdf) - `slides` - `video`
 
-11. 02 Apr 2025 - [slides - PDF](https://github.com/DRep-Collective/Landing/blob/main/docs/meetings/slides/meeting-11-drep-collective-slides.pdf) - [minutes](https://github.com/DRep-Collective/Landing/blob/main/docs/meetings/summaries/02-apr-2025.md) - [video](https://www.youtube.com/watch?v=bnwT7uyKdUQ)
+11. 02 Apr 2025 - [slides - PDF](https://github.com/DRep-Collective/Landing/blob/main/docs/meetings/slides/meeting-11-drep-collective-slides.pdf) - [summary](https://github.com/DRep-Collective/Landing/blob/main/docs/meetings/summaries/02-apr-2025.md) - [video](https://www.youtube.com/watch?v=bnwT7uyKdUQ)
 
-12. 09 Apr 2025 - [slides - PDF](https://github.com/DRep-Collective/Landing/blob/main/docs/meetings/slides/meeting-12-drep-collective-slides.pdf) - [minutes](https://github.com/DRep-Collective/Landing/blob/main/docs/meetings/summaries/09-apr-2025.md) - [video](https://www.youtube.com/watch?v=tNoHsLj9QY8)
+12. 09 Apr 2025 - [slides - PDF](https://github.com/DRep-Collective/Landing/blob/main/docs/meetings/slides/meeting-12-drep-collective-slides.pdf) - [summary](https://github.com/DRep-Collective/Landing/blob/main/docs/meetings/summaries/09-apr-2025.md) - [video](https://www.youtube.com/watch?v=tNoHsLj9QY8)
 
 13. 16 Apr 2025 - [slides - PDF](https://github.com/DRep-Collective/Landing/blob/main/docs/meetings/slides/meeting-13-drep-collective-slides.pdf)
 
-14. 23 Apr 2025 - [slides - PDF]()
+14. 23 Apr 2025 - [slides - PDF](https://github.com/DRep-Collective/Landing/blob/main/docs/meetings/slides/meeting-14-drep-collective-slides.pdf) - [summary](https://github.com/DRep-Collective/Landing/blob/main/docs/meetings/summaries/23-apr-2025.md) - [video](https://www.youtube.com/watch?v=2GagBX0TFuE)
