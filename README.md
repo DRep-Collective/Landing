@@ -16,11 +16,13 @@ We continue to push for an informed international community and encourage all DR
 - [Be Part Of The Build Team](https://github.com/orgs/DRep-Collective/discussions/categories/workstream_onboarding)
    - Select `New Discussion`, fill in the data, click `Start Discussion`
 
+<!--
 ---
 
 ## HOURS OF AVAILABILITY
 - Disregard the dates provided. Share your [general weekly availability - NEW LINK COMING](). This link is very public. Password is not necessary but keeps others from changing your hours.
 
+-->
 ---
 
 ## FEEDBACK & WORKSTREAMS
