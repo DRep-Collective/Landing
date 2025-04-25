@@ -67,6 +67,6 @@ We continue to push for an informed international community and encourage all DR
 
 ## INDEX OF OUR REPOSITORIES
 1. [The Landing](https://github.com/DRep-Collective/landing) - You Are Here!
-2. 
+
 ---
 
