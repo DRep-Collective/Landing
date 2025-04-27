@@ -100,11 +100,7 @@ Beneficiary listed above
 ```
 #### What social handles would you like to be used? E.g. Github, X*
 ```
-X: @My__X__Account
-Discord:  https://discord.gg/VHzZCBxNDm Username: .kevinm.
-Telegram: https://t.me/+Y1HJLBoLK-UyNDc5
-Facebook: https://www.facebook.com/profile.php?id=61572466194346
-Youtube:  https://www.youtube.com/@TheDRepCollective
+Message Kevin Mohr on X: @My_X_Account any questions or our GitHub account: https://github.com/DRep-Collective or our Discord server link: https://discord.gg/VHzZCBxNDm or our email: thedrepcollective@gmail.com
 ```
 ---
 
@@ -112,12 +108,14 @@ Youtube:  https://www.youtube.com/@TheDRepCollective
 
 #### Problem Statement: What problem does this proposal seek to address?*
 ```
-This project intends to bridge the DRep-delegate gap by providing a method of self-reporting for DReps and search-filter functions for delegates who may be looking for a representative that aligns with their values, principles and-or ethos. DReps will be self-reporting, providing the metadata that will create a governance-type map, allowing for broader exposure to, and communications with, delegates across the Cardano ecosystem.
+This proposal seeks to collectivize DReps so that they may work together to gain legal representation in their respective countries, financial support from the treasury, and a place for collective research and ideation around governance.
+
+This project also intends to bridge the DRep-delegate gap by providing a method of self-reporting for DReps and search-filter functions for delegates who may be looking for a representative that aligns with their values, principles and-or ethos. DReps will be self-reporting, providing the metadata that will create a governance-type map, allowing for broader exposure to, and communications with, delegates across the Cardano ecosystem. In addition to mapping DRep's, this project seeks to map the entirety of the ecosystem.
 ```
 
 #### Proposal Benefit:  If implemented, what would be the benefit and to which parts of the community? Please include the demonstrated value or return on investment to the Cardano Community.*
 ```
-This project will allow community members from across the ecosystem and world to coordinate, align, and come together to share their thoughts, and voices, for the betterment of the Cardano ecosystem. It will open doors to members as both DReps, delegates and any who wish to be informed by breaking apart silos, tearing down walls and allowing for broad discourse. 
+This project will allow community members from across the ecosystem and world to coordinate, align, and come together to share their thoughts, and voices, for the betterment of the Cardano ecosystem. It will provide benefits to DReps, delegates and any who wish to be informed by allowing for broad discourse. This project will also solve the issue of DRep compensation and the issue of legal representation for DReps.
 ```
 
 #### Does this proposal align to the Product Roadmap and Roadmap Goals?*
@@ -166,6 +164,10 @@ On-Chain DRep Credential & Extended Governance NFTs
 #### Proposal Description: Please provide a high-level description / abstract of the proposal (2500 words max).*
 ```
 With the creation, passing and ratification of the Cardano Constitution the community is now tasked with voting for proposals submitted by the others that drive the direction and improvements of the Cardano blockchain. To help make voting easier the governance delegated-representative (DRep) role has been created. This is role requires delegation from community members. Essentially delegates, in order to access their own staking rewards, must set their staked wallet to No Confidence, Abstain, Own Account (self-delegated) or delegate their wallet to a DRep. By delegating to a DRep the delegate has given the DRep voting power at a rate of 1 ADA = 1 vote. The ability to delegate whenever to whomever is considered a key characteristic of liquid democracy. Democracies can fail when constituents (i.e. ADA holders) are misinformed, or uninformed, and become, or are currently, closed off from broader delegation opportunities. This can have numerous impacts such as disenfranchisement, reduced participation and, at the extreme, centralization of power to the elites and privileged. Providing a bridge from delegate to DRep, from uninformed to informed, from unengaged to engaged, from voiceless to heard; these are all the areas this proposal intends to touch and solve by providing an opportunity to every ADA-holder to make an informed decision as to whom they wish to delegate to and for what causes. The processes of self-reporting intends to make transparent a DRep’s associations, actions, generalized drivers and other metrics allowing a drill-down filtering that aligns delgate to the DRep and vice-versa. DReps are in control of their data, minus any potential endorsements, and delegates are free to filter as desired. The end result is a delegate that is in control and can take necessary steps to be responsibly represented or may take on the role of DRep themselves.
+
+In addition to these features, this proposal seeks to provide benefits to DReps' through collective support of one another. These benefits include payments for DRep's who are part of the collective and demonstrate hard work and commitment to their role as a DRep, legal support for DRep's in various countries, and a place for open source research into governance. The proposal also seeks to create a way to collectivize DReps so that we may fight back against security threats.
+
+For more information on exactly how this proposal seeks to accomplish these things, please check the following links: https://github.com/cardano-foundation/CIPs/pull/1007 https://github.com/DRep-Collective https://docs.google.com/document/d/14lvftm5l3YGTdQRscImo1eEccHi1m-kPubsT1TANDiM/edit?usp=sharing https://dev-drep.vercel.app/ (Note CIP-148 on the website is now CIP-1007) https://www.youtube.com/@TheDRepCollective https://linktr.ee/drepforum
 ```
 
 #### Dependencies: Please list any key dependencies (if any) for this proposal? These can be internal or external to the proposal.*
@@ -173,7 +175,7 @@ What else needs to be done for this proposal to begin or be completed.
 - CIP-1007 Ratification
 
 #### Maintenance: How will this proposal be maintained and supported after initial development?*
-- It will be maintained using continual treasury withdrawls from our internal treasury. If more needs to be done to maintain the project, we will submit a treasury withdrawl. This project should be self sufficent once funded for at least one year.
+-It will be maintained using continual treasury withdrawls from our internal treasury. We would like to sustain this project using an MVP over the next three years. If we can not find product market fit, we will perish. Ideally, we would like to make enough money to sustain ourselves through the sale of data and information connected to our ecosystem mapping. We want membership to be as cheap as possible but if our members want to, we can explore creating annual union dues with the minting of a new and improved annual governance NFT. If more needs to be done to maintain the project, we will submit a treasury withdrawl. This project should be self-sustiaing once funded for at least three years. If the community finds it valuable, it may be worth funding this project after the three year mark at a loss to the treasury.
 
 #### Key Proposal Deliverable(s) and Definition of Done: What tangible milestones or outcomes are to be delivered and what will the community ultimately receive?**
 Keeping in mind sometimes proposals are multi-phased, what would be the target state of this tranche of the proposal or body of work.
@@ -181,17 +183,16 @@ Keeping in mind sometimes proposals are multi-phased, what would be the target s
   2. We will connect the website to mainnet and offically publish it.
   3. We will onboard users into the collective.
   4. The collective will grow with more community participation.
- 
-     Ultimately the community will receive a union/dao like strucutre that maps the entire ecosystem and provides benefits such as financial support and legal aid to DRep users. It will also be a place of open source research into governance.
 
 #### Resourcing & Duration Estimates: Please provide estimates of team size and duration to achieve the Key Proposal Deliverables outlined above.*
 If not known estimates can be provided.
 - 10 memeber team. (2 Marketing, 1 Github, 2 Developers, 2 Social Media, 1 consultant)
-- 1. Publish CIP (2 Months/July 2025) - 80,000 ADA for each developer. (2x Developers) (160,000 Total)
-  2. Publish website (1 Month/August 2025) - 80,000 ADA for each developer. (2x Developers) (160,000 Total)
-                        Github Maintenance - 20,000 ADA
-  3. Onboard Users - Social Media Marketing (September/October/November 2025) - 20,000 ADA
-  4. Grow with community participation (December 2025 onward) - 250,000 ADA for the Treasury (Legal Aid/DRep   Incentives/Payments to DReps).
+1. Publish CIP (2 Months/July 2025) - 80,000 ADA for each developer. (2x Developers) (160,000 Total)
+2. Publish website (1 Month/August 2025) - 80,000 ADA for each developer to finish Ecosystem Mapping & NFT creation. (2x Developers) (160,000 Total) Github Maintenance - 20,000 ADA
+3. Onboard Users - Social Media Marketing (September/October/November 2025) - 20,000 ADA
+4. Integrate Tempo.Vote - (December 2025 onward) - 200,000 ADA
+5. Grow with community participation (December 2025 onward) - 340,000 ADA for the Treasury (Legal Aid/DRep Incentives/Payments to DReps).
+6. Potential ADA Handle Partnership 100,000 ADA- Integrate Endorsements for NFT's
 
 #### Experience: Please provide previous experience relevant to complete this project.*
 - Disco Solaris
@@ -205,19 +206,19 @@ If not known estimates can be provided.
 
 #### Costing: Please provide requested cost of this proposal in:
 ##### Preferred Currency*
-- 610,000 ADA
+- ₳ 1,000,000
 
 ##### Amount in preferred currency*
-- 610,000 ADA
+- ₳ 1,000,000
 
 ##### USD ($) Amount*
-- 305,000
+- 500,000
 
 ##### USD to Preferred Currency Conversion Rate*
-- 1:1
+- 0.5
 
 ##### ADA Amount*
-- 530,000 ADA
+- 1,000,000 ADA
 
 ##### USD to ADA Conversion Rate*
 - 1:0.5
@@ -228,13 +229,18 @@ If not known estimates can be provided.
   2. Publish website (1 Month/August 2025) - 80,000 ADA for each developer. (2x Developers) (160,000 Total)
                         Github Maintenance - 20,000 ADA
   3. Onboard Users - Social Media Marketing (September/October/November 2025) - 20,000 ADA
-  4. Grow with community participation (December 2025 onward) - 250,000 ADA for the Treasury (Legal Aid/DRep   Incentives/Payments to DReps).
+  4. Grow with community participation (December 2025 onward) - 340,000 ADA for the Treasury (Legal Aid/DRep   Incentives/Payments to DReps).
+  5. 100k ADA Handle Partnership
+  6. 200k Tempo.vote 3 year lease and maintenance of voting platform
 
  IN USD:
      1. 80,000 USD
      2. 80,000 USD + 10,000 USD
      3. 10,000 USD
-     4. 125,000 USD
+     4. 170,000 USD
+     5. 50,000 USD
+     6. 100,000 USD
+     USD Total: 500,000 USD
 
 
 ---
