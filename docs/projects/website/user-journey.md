@@ -19,11 +19,11 @@ All pages should have a Wallet Connect feature in the upper-right hand corner
 The users and items listed below will be the basis for the user selection (i.e. pages available) upon
 launching the app or visiting the website
 ```
-- [DReps]()
-- [Endorsers]()
-- [Delegates]()
-- [Cardano Community Members]()
-- [General]()
+- [DReps](https://github.com/DRep-Collective/Landing/blob/main/docs/projects/website/user-journey.md#dreps)
+- [Endorsers](https://github.com/DRep-Collective/Landing/blob/main/docs/projects/website/user-journey.md#endorsers)
+- [Delegates](https://github.com/DRep-Collective/Landing/blob/main/docs/projects/website/user-journey.md#delegates)
+- [Cardano Community Members](https://github.com/DRep-Collective/Landing/blob/main/docs/projects/website/user-journey.md#community-members)
+- [General](https://github.com/DRep-Collective/Landing/blob/main/docs/projects/website/user-journey.md#general)
 
 ---
 
