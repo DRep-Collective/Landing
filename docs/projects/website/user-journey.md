@@ -7,7 +7,6 @@ To view any of the links below please right-click, or long-press if on mobile, a
 - [CIP-???](https://github.com/Alpine-Oracle/CIPs/tree/CIP-0152/CIP-DRep-Credential)
 - [Cardano Ecosystem Map - Roles & Sectors Definitions - Defintions v1.1 - `PDF`](https://github.com/DRep-Collective/Landing/blob/main/docs/projects/website/supporting-files/Cardano%20Ecosystem%20Map%20-%20Roles%20%26%20Sectors%20Definitions%20-%20Defintions%20v1.1.pdf)
 - [Ecosystem Mapping Metadata Standard - `PDF`](https://github.com/DRep-Collective/Landing/blob/main/docs/projects/website/supporting-files/Ecosystem%20Mapping%20Metadata%20Standard.pdf)
-- [Reference Paper - Drawing graphs with dot - `PDF`](https://github.com/DRep-Collective/Landing/blob/main/docs/projects/website/supporting-files/dotguide.pdf)
 - [Initial Wireframes using Pencil - `png`](https://github.com/DRep-Collective/Landing/blob/main/docs/projects/website/supporting-files/initial-wireframe-pencil.png)
 ---
 
