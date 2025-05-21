@@ -100,7 +100,7 @@ A view only role
 May be considered an ABOUT page/option
 ```
 ##### ACTIONS/OPTIONS AVAILABLE
-- Resources
+- Resources - maybe add **`ROLES & definitions`** HERE
 - Links
 - About
 - ToS
