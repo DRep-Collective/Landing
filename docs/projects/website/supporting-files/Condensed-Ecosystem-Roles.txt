@@ -1,0 +1,46 @@
+****GOVERNANCE****
+CC - Keep Verified onchain / Update CC transaction
+DRep- Verified onchain
+Gov Org Member - Endorsement
+	Open Source Facilitator
+Stake Pool Operator
+
+****DEFI Role****
+	Wallet Provider
+	Funding Consulting
+	Innovation Funder
+	Bridge Provider
+	DEX Operator
+	Asset Tokenizer
+	Token Issuer
+	Yield Pool Manager
+	Title Management
+
+****Digital Builder****
+	Game Producer
+	Metaverse Builder
+	Developer Service/Support
+	DID Provider
+	Infrastructure Dev/Support
+	Project Manager
+	NFT Producer
+	NFT Marketplace Operator
+	Node Operator - Keep
+	Development Organization
+
+*****ADVISE & INFORM****
+Social
+	Influencer
+	Social Media Operator
+	DAO
+	Organizer
+Auditor
+Education - Keep
+	Research Group
+
+****Artist****
+	Music Artist
+	Visual Artists
+	Other
+
+
