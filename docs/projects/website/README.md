@@ -12,7 +12,7 @@
 
 ### NOTES
 - Earlier notes are [HERE](https://github.com/DRep-Collective/Landing/blob/main/docs/projects/website/app-website-diagram-notes.md).
-- Other relevant notes can be found within the [Pencil File](https://github.com/DRep-Collective/Landing/blob/main/docs/projects/website/map-app.epgz).
+- Other relevant/recent notes can be found within the [Pencil File](https://github.com/DRep-Collective/Landing/blob/main/docs/projects/website/map-app.epgz).
 
 ### SUPPORTING DOCS, ETC.
 - While this project was originally brainstormed months ago there have only been a few persons working on it.
